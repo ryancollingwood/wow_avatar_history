@@ -1,0 +1,2326 @@
+level,guild,race,class,region
+5,Guild Guild -1,Orc,Warrior,Durotar
+9,Guild Guild -1,Orc,Shaman,Durotar
+13,Guild Guild -1,Orc,Shaman,Durotar
+14,Guild Guild 0,Orc,Warrior,Durotar
+14,Guild Guild -1,Orc,Shaman,Durotar
+16,Guild Guild -1,Orc,Hunter,The Barrens
+18,Guild Guild -1,Orc,Warlock,The Barrens
+17,Guild Guild -1,Orc,Hunter,Silverpine Forest
+26,Guild Guild 0,Orc,Warrior,Stonetalon Mountains
+27,Guild Guild 1,Orc,Hunter,Stonetalon Mountains
+24,Guild Guild -1,Orc,Hunter,The Barrens
+25,Guild Guild 2,Orc,Hunter,The Barrens
+21,Guild Guild -1,Orc,Hunter,Thunder Bluff
+33,Guild Guild 3,Orc,Warrior,Dustwallow Marsh
+35,Guild Guild 4,Orc,Warrior,Orgrimmar
+40,Guild Guild 5,Orc,Hunter,Undercity
+32,Guild Guild 6,Orc,Warlock,Ashenvale
+35,Guild Guild 7,Orc,Hunter,Stranglethorn Vale
+39,Guild Guild 7,Orc,Hunter,Stranglethorn Vale
+36,Guild Guild -1,Orc,Rogue,Thunder Bluff
+39,Guild Guild 8,Orc,Warlock,Thunder Bluff
+45,Guild Guild 9,Orc,Hunter,Wailing Caverns
+48,Guild Guild 10,Orc,Warrior,Tanaris
+41,Guild Guild 2,Orc,Hunter,Orgrimmar
+42,Guild Guild 11,Orc,Shaman,Orgrimmar
+42,Guild Guild 12,Orc,Shaman,Orgrimmar
+44,Guild Guild 3,Orc,Hunter,Orgrimmar
+45,Guild Guild 13,Orc,Hunter,Orgrimmar
+45,Guild Guild 14,Orc,Hunter,Orgrimmar
+41,Guild Guild -1,Orc,Hunter,Undercity
+45,Guild Guild 5,Orc,Warlock,Undercity
+48,Guild Guild 4,Orc,Shaman,Maraudon
+41,Guild Guild 6,Orc,Shaman,Stranglethorn Vale
+45,Guild Guild 11,Orc,Hunter,Stranglethorn Vale
+47,Guild Guild 5,Orc,Warrior,Stranglethorn Vale
+48,Guild Guild 15,Orc,Warrior,The Hinterlands
+41,Guild Guild 16,Orc,Shaman,Thunder Bluff
+53,Guild Guild 3,Orc,Warrior,Dustwallow Marsh
+51,Guild Guild 7,Orc,Hunter,Orgrimmar
+52,Guild Guild 2,Orc,Rogue,Orgrimmar
+53,Guild Guild 3,Orc,Hunter,Un'Goro Crater
+53,Guild Guild 5,Orc,Shaman,Maraudon
+53,Guild Guild -1,Orc,Hunter,Felwood
+55,Guild Guild 5,Orc,Warrior,The Temple of Atal'Hakkar
+57,Guild Guild 3,Orc,Rogue,Blackrock Depths
+60,Guild Guild 2,Orc,Hunter,Winterspring
+60,Guild Guild 17,Orc,Warrior,Orgrimmar
+60,Guild Guild 18,Orc,Warrior,Orgrimmar
+60,Guild Guild 15,Orc,Warrior,Orgrimmar
+60,Guild Guild 8,Orc,Hunter,Orgrimmar
+60,Guild Guild 18,Orc,Hunter,Orgrimmar
+60,Guild Guild 3,Orc,Hunter,Eastern Plaguelands
+60,Guild Guild 3,Orc,Warlock,Azshara
+60,Guild Guild 2,Orc,Hunter,The Hinterlands
+60,Guild Guild 5,Orc,Warrior,Scholomance
+60,Guild Guild 3,Orc,Warrior,Arathi Basin
+60,Guild Guild 17,Orc,Warrior,Arathi Basin
+60,Guild Guild 2,Orc,Hunter,Arathi Basin
+60,Guild Guild 4,Orc,Warrior,Blackrock Spire
+60,Guild Guild 5,Orc,Warrior,Blackrock Mountain
+60,Guild Guild 7,Orc,Hunter,Blackrock Mountain
+60,Guild Guild 19,Orc,Hunter,Blackrock Depths
+10,Guild Guild 7,Tauren,Druid,Moonglade
+4,Guild Guild -1,Tauren,Druid,Mulgore
+6,Guild Guild -1,Tauren,Warrior,Mulgore
+19,Guild Guild 9,Tauren,Warrior,Wailing Caverns
+13,Guild Guild 20,Tauren,Shaman,Orgrimmar
+11,Guild Guild -1,Tauren,Warrior,Mulgore
+15,Guild Guild 2,Tauren,Druid,The Barrens
+17,Guild Guild -1,Tauren,Druid,The Barrens
+18,Guild Guild -1,Tauren,Warrior,The Barrens
+19,Guild Guild 12,Tauren,Shaman,The Barrens
+19,Guild Guild -1,Tauren,Hunter,Silverpine Forest
+11,Guild Guild 17,Tauren,Hunter,Thunder Bluff
+11,Guild Guild -1,Tauren,Shaman,Thunder Bluff
+12,Guild Guild -1,Tauren,Warrior,Thunder Bluff
+29,Guild Guild 2,Tauren,Druid,Thousand Needles
+27,Guild Guild 3,Tauren,Warrior,Orgrimmar
+27,Guild Guild 21,Tauren,Warrior,Hillsbrad Foothills
+25,Guild Guild 21,Tauren,Warrior,Undercity
+22,Guild Guild -1,Tauren,Warrior,Ashenvale
+26,Guild Guild 6,Tauren,Shaman,Ashenvale
+24,Guild Guild -1,Tauren,Shaman,Stonetalon Mountains
+21,Guild Guild 18,Tauren,Shaman,The Barrens
+22,Guild Guild -1,Tauren,Druid,The Barrens
+25,Guild Guild 7,Tauren,Druid,The Barrens
+30,Guild Guild 0,Tauren,Druid,Blackfathom Deeps
+33,Guild Guild 3,Tauren,Druid,Thousand Needles
+31,Guild Guild 22,Tauren,Druid,Orgrimmar
+34,Guild Guild 3,Tauren,Warrior,Orgrimmar
+37,Guild Guild -1,Tauren,Warrior,Orgrimmar
+31,Guild Guild 23,Tauren,Hunter,Desolace
+31,Guild Guild 23,Tauren,Shaman,Desolace
+31,Guild Guild 18,Tauren,Shaman,Desolace
+38,Guild Guild 3,Tauren,Druid,Desolace
+32,Guild Guild 13,Tauren,Warrior,Stonetalon Mountains
+31,Guild Guild 2,Tauren,Shaman,Stranglethorn Vale
+34,Guild Guild 20,Tauren,Shaman,Stranglethorn Vale
+35,Guild Guild 24,Tauren,Druid,Stranglethorn Vale
+39,Guild Guild 25,Tauren,Druid,Stranglethorn Vale
+34,Guild Guild 2,Tauren,Hunter,Mulgore
+40,Guild Guild -1,Tauren,Warrior,Darkshore
+44,Guild Guild 11,Tauren,Warrior,Orgrimmar
+45,Guild Guild 12,Tauren,Shaman,Orgrimmar
+48,Guild Guild 15,Tauren,Warrior,Orgrimmar
+50,Guild Guild 15,Tauren,Druid,Orgrimmar
+48,Guild Guild 5,Tauren,Warrior,Alterac Mountains
+42,Guild Guild -1,Tauren,Warrior,Undercity
+49,Guild Guild 12,Tauren,Druid,Undercity
+46,Guild Guild 19,Tauren,Druid,Swamp of Sorrows
+46,Guild Guild 18,Tauren,Druid,Tirisfal Glades
+47,Guild Guild 5,Tauren,Shaman,Tirisfal Glades
+50,Guild Guild 0,Tauren,Hunter,Searing Gorge
+47,Guild Guild 15,Tauren,Shaman,Burning Steppes
+47,Guild Guild 5,Tauren,Druid,Maraudon
+49,Guild Guild 3,Tauren,Warrior,Zul'Farrak
+42,Guild Guild 26,Tauren,Shaman,Stranglethorn Vale
+41,Guild Guild 2,Tauren,Shaman,Feralas
+42,Guild Guild 6,Tauren,Hunter,Feralas
+46,Guild Guild -1,Tauren,Warrior,Feralas
+44,Guild Guild 27,Tauren,Warrior,The Barrens
+46,Guild Guild -1,Tauren,Hunter,The Barrens
+49,Guild Guild 12,Tauren,Hunter,The Temple of Atal'Hakkar
+45,Guild Guild 7,Tauren,Shaman,Arathi Highlands
+46,Guild Guild 2,Tauren,Warrior,Thunder Bluff
+53,Guild Guild 7,Tauren,Warrior,Winterspring
+51,Guild Guild -1,Tauren,Druid,Tanaris
+52,Guild Guild 5,Tauren,Shaman,Orgrimmar
+53,Guild Guild 8,Tauren,Warrior,Orgrimmar
+55,Guild Guild 1,Tauren,Hunter,Orgrimmar
+55,Guild Guild 5,Tauren,Shaman,Orgrimmar
+52,Guild Guild 19,Tauren,Warrior,Ashenvale
+53,Guild Guild 6,Tauren,Druid,Ashenvale
+53,Guild Guild 2,Tauren,Druid,Desolace
+51,Guild Guild 5,Tauren,Warrior,Maraudon
+54,Guild Guild 5,Tauren,Shaman,The Temple of Atal'Hakkar
+57,Guild Guild 3,Tauren,Warrior,Searing Gorge
+56,Guild Guild 25,Tauren,Shaman,Stranglethorn Vale
+56,Guild Guild 2,Tauren,Druid,The Hinterlands
+57,Guild Guild 28,Tauren,Hunter,Blackrock Spire
+58,Guild Guild 5,Tauren,Druid,Winterspring
+58,Guild Guild 29,Tauren,Warrior,Orgrimmar
+59,Guild Guild 8,Tauren,Warrior,Maraudon
+59,Guild Guild 8,Tauren,Shaman,Blasted Lands
+58,Guild Guild 16,Tauren,Shaman,The Barrens
+59,Guild Guild 4,Tauren,Shaman,Blackrock Spire
+60,Guild Guild 2,Tauren,Warrior,Orgrimmar
+60,Guild Guild 4,Tauren,Warrior,Orgrimmar
+60,Guild Guild 17,Tauren,Warrior,Orgrimmar
+60,Guild Guild 0,Tauren,Warrior,Orgrimmar
+60,Guild Guild 15,Tauren,Warrior,Eastern Plaguelands
+60,Guild Guild 28,Tauren,Warrior,Western Plaguelands
+60,Guild Guild 7,Tauren,Warrior,Scholomance
+60,Guild Guild 19,Tauren,Warrior,Arathi Basin
+60,Guild Guild 1,Tauren,Warrior,Arathi Basin
+60,Guild Guild 10,Tauren,Warrior,Arathi Basin
+60,Guild Guild 2,Tauren,Warrior,Arathi Basin
+60,Guild Guild 15,Tauren,Warrior,Arathi Basin
+60,Guild Guild 5,Tauren,Hunter,Orgrimmar
+60,Guild Guild 4,Tauren,Hunter,Blackrock Mountain
+60,Guild Guild 5,Tauren,Shaman,Stratholme
+60,Guild Guild 3,Tauren,Shaman,Eastern Plaguelands
+60,Guild Guild 18,Tauren,Shaman,Eastern Plaguelands
+60,Guild Guild 8,Tauren,Shaman,Scarlet Monastery
+60,Guild Guild 1,Tauren,Shaman,Arathi Basin
+60,Guild Guild 19,Tauren,Shaman,Arathi Basin
+60,Guild Guild 4,Tauren,Shaman,Blackrock Mountain
+60,Guild Guild 20,Tauren,Shaman,Blackrock Mountain
+60,Guild Guild 3,Tauren,Shaman,Blackrock Depths
+60,Guild Guild 6,Tauren,Druid,Orgrimmar
+60,Guild Guild 19,Tauren,Druid,Orgrimmar
+60,Guild Guild 3,Tauren,Druid,Eastern Plaguelands
+60,Guild Guild 8,Tauren,Druid,Blasted Lands
+60,Guild Guild 4,Tauren,Druid,Scholomance
+60,Guild Guild 17,Tauren,Druid,Thunder Bluff
+60,Guild Guild 1,Tauren,Druid,Darkshore
+60,Guild Guild 5,Tauren,Druid,Blackrock Mountain
+1,Guild Guild -1,Troll,Hunter,Durotar
+5,Guild Guild -1,Troll,Rogue,Durotar
+8,Guild Guild -1,Troll,Mage,Durotar
+11,Guild Guild 3,Troll,Shaman,Orgrimmar
+20,Guild Guild -1,Troll,Rogue,Orgrimmar
+11,Guild Guild 10,Troll,Rogue,Durotar
+11,Guild Guild -1,Troll,Shaman,Durotar
+11,Guild Guild -1,Troll,Rogue,The Barrens
+16,Guild Guild 30,Troll,Shaman,The Barrens
+19,Guild Guild 7,Troll,Rogue,The Barrens
+25,Guild Guild 2,Troll,Hunter,Orgrimmar
+25,Guild Guild 8,Troll,Shaman,Orgrimmar
+28,Guild Guild -1,Troll,Warrior,Orgrimmar
+24,Guild Guild 31,Troll,Rogue,Undercity
+28,Guild Guild 6,Troll,Hunter,Undercity
+30,Guild Guild 7,Troll,Priest,Ashenvale
+24,Guild Guild 0,Troll,Hunter,Stonetalon Mountains
+28,Guild Guild 13,Troll,Hunter,Stonetalon Mountains
+29,Guild Guild -1,Troll,Hunter,Stonetalon Mountains
+22,Guild Guild -1,Troll,Hunter,The Barrens
+32,Guild Guild 8,Troll,Shaman,Thousand Needles
+38,Guild Guild 6,Troll,Mage,Thousand Needles
+40,Guild Guild 8,Troll,Hunter,Orgrimmar
+34,Guild Guild 8,Troll,Priest,Alterac Mountains
+35,Guild Guild 8,Troll,Mage,Alterac Mountains
+36,Guild Guild 2,Troll,Shaman,Shadowfang Keep
+37,Guild Guild 21,Troll,Shaman,Desolace
+36,Guild Guild 7,Troll,Hunter,Stranglethorn Vale
+39,Guild Guild -1,Troll,Rogue,Stranglethorn Vale
+40,Guild Guild 10,Troll,Hunter,Mulgore
+37,Guild Guild 25,Troll,Mage,The Barrens
+32,Guild Guild 11,Troll,Mage,Thunder Bluff
+42,Guild Guild 10,Troll,Hunter,Tanaris
+43,Guild Guild 2,Troll,Hunter,Undercity
+44,Guild Guild 15,Troll,Shaman,Stonetalon Mountains
+43,Guild Guild 5,Troll,Shaman,Badlands
+44,Guild Guild 5,Troll,Priest,Thunder Bluff
+46,Guild Guild 7,Troll,Rogue,Orgrimmar
+49,Guild Guild 32,Troll,Shaman,Orgrimmar
+50,Guild Guild 5,Troll,Mage,Maraudon
+46,Guild Guild -1,Troll,Priest,Feralas
+47,Guild Guild 6,Troll,Rogue,Feralas
+50,Guild Guild -1,Troll,Rogue,Felwood
+55,Guild Guild -1,Troll,Hunter,Winterspring
+54,Guild Guild 26,Troll,Hunter,Orgrimmar
+51,Guild Guild 2,Troll,Rogue,Un'Goro Crater
+53,Guild Guild 5,Troll,Priest,Eastern Plaguelands
+55,Guild Guild 5,Troll,Rogue,Searing Gorge
+52,Guild Guild 3,Troll,Warrior,Zul'Farrak
+53,Guild Guild 3,Troll,Priest,Zul'Farrak
+51,Guild Guild 5,Troll,Shaman,The Temple of Atal'Hakkar
+57,Guild Guild -1,Troll,Hunter,Orgrimmar
+57,Guild Guild 28,Troll,Priest,Eastern Plaguelands
+56,Guild Guild -1,Troll,Hunter,Azshara
+57,Guild Guild 3,Troll,Warrior,Blackrock Depths
+57,Guild Guild 3,Troll,Priest,Blackrock Depths
+58,Guild Guild 13,Troll,Rogue,Orgrimmar
+58,Guild Guild 3,Troll,Mage,Blackrock Depths
+60,Guild Guild 17,Troll,Mage,Winterspring
+60,Guild Guild 33,Troll,Hunter,Orgrimmar
+60,Guild Guild 28,Troll,Mage,Eastern Plaguelands
+60,Guild Guild 28,Troll,Hunter,Scholomance
+60,Guild Guild 7,Troll,Hunter,Scholomance
+60,Guild Guild 2,Troll,Hunter,Arathi Basin
+60,Guild Guild 17,Troll,Priest,Thunder Bluff
+60,Guild Guild 4,Troll,Mage,Blackrock Mountain
+60,Guild Guild 6,Troll,Hunter,未知
+60,Guild Guild 15,Troll,Shaman,Orgrimmar
+60,Guild Guild 29,Troll,Shaman,Orgrimmar
+60,Guild Guild 5,Troll,Rogue,Stratholme
+60,Guild Guild 17,Troll,Rogue,Durotar
+60,Guild Guild 3,Troll,Rogue,Eastern Plaguelands
+60,Guild Guild 1,Troll,Rogue,Felwood
+60,Guild Guild 5,Troll,Rogue,Arathi Basin
+60,Guild Guild 28,Troll,Shaman,Arathi Basin
+60,Guild Guild 19,Troll,Rogue,Thunder Bluff
+60,Guild Guild 8,Troll,Rogue,Blackrock Mountain
+9,Guild Guild 5,Undead,Mage,Tirisfal Glades
+10,Guild Guild -1,Undead,Priest,Tirisfal Glades
+13,Guild Guild -1,Undead,Warlock,Orgrimmar
+20,Guild Guild 3,Undead,Warrior,Orgrimmar
+12,Guild Guild 12,Undead,Mage,Tirisfal Glades
+18,Guild Guild 16,Undead,Rogue,Mulgore
+15,Guild Guild -1,Undead,Priest,The Barrens
+18,Guild Guild 30,Undead,Warlock,The Barrens
+11,Guild Guild -1,Undead,Warrior,Silverpine Forest
+14,Guild Guild 21,Undead,Rogue,Silverpine Forest
+14,Guild Guild -1,Undead,Warlock,Silverpine Forest
+15,Guild Guild -1,Undead,Warlock,Silverpine Forest
+19,Guild Guild 6,Undead,Mage,Silverpine Forest
+19,Guild Guild 8,Undead,Rogue,Silverpine Forest
+19,Guild Guild 19,Undead,Mage,Thunder Bluff
+21,Guild Guild -1,Undead,Priest,Ashenvale
+25,Guild Guild 20,Undead,Mage,Ashenvale
+24,Guild Guild 15,Undead,Mage,Stonetalon Mountains
+21,Guild Guild -1,Undead,Rogue,The Barrens
+22,Guild Guild 1,Undead,Mage,The Barrens
+27,Guild Guild 11,Undead,Priest,Thousand Needles
+26,Guild Guild -1,Undead,Priest,Orgrimmar
+29,Guild Guild 19,Undead,Mage,Orgrimmar
+28,Guild Guild -1,Undead,Priest,Hillsbrad Foothills
+29,Guild Guild -1,Undead,Rogue,Hillsbrad Foothills
+27,Guild Guild -1,Undead,Rogue,Ashenvale
+28,Guild Guild -1,Undead,Priest,Ashenvale
+33,Guild Guild 13,Undead,Mage,Thousand Needles
+34,Guild Guild 20,Undead,Priest,Orgrimmar
+36,Guild Guild 7,Undead,Warlock,Orgrimmar
+40,Guild Guild 2,Undead,Warlock,Orgrimmar
+34,Guild Guild -1,Undead,Priest,Alterac Mountains
+36,Guild Guild 3,Undead,Mage,Alterac Mountains
+38,Guild Guild 29,Undead,Mage,Alterac Mountains
+32,Guild Guild -1,Undead,Rogue,Hillsbrad Foothills
+38,Guild Guild 6,Undead,Priest,Undercity
+35,Guild Guild 0,Undead,Rogue,Tirisfal Glades
+33,Guild Guild 21,Undead,Mage,Ashenvale
+36,Guild Guild -1,Undead,Warlock,Ashenvale
+38,Guild Guild 34,Undead,Warlock,Wetlands
+33,Guild Guild 6,Undead,Priest,Stonetalon Mountains
+32,Guild Guild 17,Undead,Mage,Stranglethorn Vale
+33,Guild Guild 24,Undead,Priest,Stranglethorn Vale
+37,Guild Guild 19,Undead,Mage,Stranglethorn Vale
+40,Guild Guild 1,Undead,Priest,Badlands
+34,Guild Guild 35,Undead,Priest,Thunder Bluff
+35,Guild Guild 19,Undead,Mage,Thunder Bluff
+33,Guild Guild -1,Undead,Warlock,Blackfathom Deeps
+34,Guild Guild -1,Undead,Warrior,Blackfathom Deeps
+44,Guild Guild 2,Undead,Mage,Tanaris
+45,Guild Guild 24,Undead,Rogue,Tanaris
+48,Guild Guild -1,Undead,Rogue,Tanaris
+46,Guild Guild 7,Undead,Priest,Dustwallow Marsh
+41,Guild Guild 22,Undead,Priest,Orgrimmar
+42,Guild Guild 11,Undead,Mage,Orgrimmar
+43,Guild Guild 22,Undead,Mage,Orgrimmar
+45,Guild Guild 2,Undead,Mage,Orgrimmar
+48,Guild Guild 4,Undead,Warlock,Orgrimmar
+44,Guild Guild 21,Undead,Warlock,Alterac Mountains
+45,Guild Guild 5,Undead,Mage,Alterac Mountains
+50,Guild Guild 17,Undead,Rogue,Undercity
+43,Guild Guild 3,Undead,Rogue,Swamp of Sorrows
+44,Guild Guild 3,Undead,Mage,Swamp of Sorrows
+48,Guild Guild -1,Undead,Priest,Searing Gorge
+48,Guild Guild -1,Undead,Rogue,Searing Gorge
+44,Guild Guild 8,Undead,Warrior,Maraudon
+45,Guild Guild 8,Undead,Mage,Maraudon
+45,Guild Guild 3,Undead,Priest,Zul'Farrak
+43,Guild Guild 13,Undead,Priest,Stranglethorn Vale
+43,Guild Guild 6,Undead,Warlock,Stranglethorn Vale
+49,Guild Guild 11,Undead,Warlock,Stranglethorn Vale
+50,Guild Guild 5,Undead,Priest,Western Plaguelands
+44,Guild Guild 21,Undead,Warrior,The Hinterlands
+45,Guild Guild 5,Undead,Rogue,The Hinterlands
+50,Guild Guild 2,Undead,Priest,The Hinterlands
+44,Guild Guild 5,Undead,Warrior,Thunder Bluff
+45,Guild Guild 15,Undead,Rogue,Thunder Bluff
+53,Guild Guild 0,Undead,Rogue,Orgrimmar
+54,Guild Guild 29,Undead,Priest,Orgrimmar
+54,Guild Guild 15,Undead,Priest,Orgrimmar
+55,Guild Guild 19,Undead,Priest,Orgrimmar
+53,Guild Guild 19,Undead,Rogue,Un'Goro Crater
+54,Guild Guild 4,Undead,Rogue,Un'Goro Crater
+55,Guild Guild 17,Undead,Rogue,Un'Goro Crater
+53,Guild Guild 5,Undead,Priest,Maraudon
+53,Guild Guild 3,Undead,Mage,Zul'Farrak
+52,Guild Guild 8,Undead,Mage,Stranglethorn Vale
+53,Guild Guild 20,Undead,Warlock,Felwood
+54,Guild Guild 19,Undead,Rogue,Felwood
+55,Guild Guild 36,Undead,Warlock,Scholomance
+52,Guild Guild 5,Undead,Mage,The Temple of Atal'Hakkar
+54,Guild Guild 5,Undead,Priest,Thunder Bluff
+54,Guild Guild 0,Undead,Rogue,Thunder Bluff
+55,Guild Guild 19,Undead,Mage,Blackrock Depths
+56,Guild Guild 7,Undead,Mage,Winterspring
+56,Guild Guild 2,Undead,Mage,Azshara
+57,Guild Guild 5,Undead,Warlock,Stranglethorn Vale
+56,Guild Guild 5,Undead,Priest,Blasted Lands
+56,Guild Guild 5,Undead,Mage,The Hinterlands
+56,Guild Guild 19,Undead,Warrior,Blackrock Depths
+56,Guild Guild 19,Undead,Priest,Blackrock Depths
+59,Guild Guild 36,Undead,Priest,Winterspring
+59,Guild Guild 14,Undead,Priest,Orgrimmar
+58,Guild Guild 7,Undead,Rogue,Undercity
+58,Guild Guild 8,Undead,Mage,Eastern Plaguelands
+58,Guild Guild -1,Undead,Priest,Eastern Plaguelands
+59,Guild Guild 3,Undead,Priest,Felwood
+58,Guild Guild 5,Undead,Priest,The Temple of Atal'Hakkar
+58,Guild Guild -1,Undead,Warlock,Thunder Bluff
+59,Guild Guild 4,Undead,Warlock,Blackrock Mountain
+60,Guild Guild 6,Undead,Mage,Orgrimmar
+60,Guild Guild 2,Undead,Mage,Orgrimmar
+60,Guild Guild 5,Undead,Mage,Stratholme
+60,Guild Guild 20,Undead,Mage,Desolace
+60,Guild Guild 2,Undead,Mage,Felwood
+60,Guild Guild 28,Undead,Mage,Scholomance
+60,Guild Guild 36,Undead,Mage,Scholomance
+60,Guild Guild 2,Undead,Mage,Arathi Basin
+60,Guild Guild 19,Undead,Mage,Thunder Bluff
+60,Guild Guild 15,Undead,Mage,Blackrock Spire
+60,Guild Guild 5,Undead,Priest,Stratholme
+60,Guild Guild 3,Undead,Priest,Eastern Plaguelands
+60,Guild Guild 7,Undead,Priest,Scholomance
+60,Guild Guild 28,Undead,Priest,Scholomance
+60,Guild Guild 15,Undead,Priest,Blackrock Spire
+60,Guild Guild 5,Undead,Priest,Blackrock Mountain
+60,Guild Guild 15,Undead,Rogue,Orgrimmar
+60,Guild Guild 7,Undead,Rogue,Orgrimmar
+60,Guild Guild 20,Undead,Rogue,Desolace
+60,Guild Guild 8,Undead,Rogue,Azshara
+60,Guild Guild 4,Undead,Rogue,Blackrock Mountain
+60,Guild Guild 12,Undead,Warlock,Orgrimmar
+60,Guild Guild 6,Undead,Warlock,Orgrimmar
+60,Guild Guild 7,Undead,Warlock,Orgrimmar
+60,Guild Guild 3,Undead,Warlock,Eastern Plaguelands
+60,Guild Guild 31,Undead,Warlock,Eastern Plaguelands
+60,Guild Guild 20,Undead,Warlock,Desolace
+60,Guild Guild 8,Undead,Warlock,Maraudon
+60,Guild Guild 19,Undead,Warlock,Azshara
+60,Guild Guild 8,Undead,Warlock,Stranglethorn Vale
+60,Guild Guild 3,Undead,Warlock,Western Plaguelands
+60,Guild Guild 5,Undead,Warrior,Stratholme
+60,Guild Guild 4,Undead,Warrior,Arathi Basin
+60,Guild Guild 5,Undead,Warrior,Blackrock Spire
+60,Guild Guild 4,Undead,Warrior,Blackrock Mountain
+1,Guild Guild -1,Orc,Hunter,Durotar
+18,Guild Guild -1,Orc,Warlock,Orgrimmar
+31,Guild Guild -1,Orc,Hunter,Hillsbrad Foothills
+40,Guild Guild 5,Orc,Hunter,Scarlet Monastery
+41,Guild Guild -1,Orc,Hunter,Orgrimmar
+45,Guild Guild 11,Orc,Hunter,Orgrimmar
+46,Guild Guild 31,Orc,Warrior,Orgrimmar
+47,Guild Guild 5,Orc,Warrior,Feralas
+53,Guild Guild 3,Orc,Warrior,Durotar
+52,Guild Guild 2,Orc,Rogue,Feralas
+57,Guild Guild 28,Orc,Hunter,Swamp of Sorrows
+60,Guild Guild 2,Orc,Hunter,Orgrimmar
+60,Guild Guild 15,Orc,Warrior,Undercity
+60,Guild Guild 3,Orc,Warlock,Undercity
+60,Guild Guild 8,Orc,Hunter,Thunder Bluff
+60,Guild Guild 5,Orc,Warrior,Blackrock Spire
+60,Guild Guild 7,Orc,Hunter,Blackrock Spire
+5,Guild Guild -1,Tauren,Druid,Mulgore
+10,Guild Guild 7,Tauren,Druid,Mulgore
+14,Guild Guild 8,Tauren,Warrior,Orgrimmar
+19,Guild Guild -1,Tauren,Hunter,Undercity
+17,Guild Guild -1,Tauren,Druid,Moonglade
+13,Guild Guild 19,Tauren,Shaman,The Barrens
+27,Guild Guild 21,Tauren,Warrior,Alterac Mountains
+25,Guild Guild 21,Tauren,Warrior,Silverpine Forest
+31,Guild Guild 2,Tauren,Shaman,Thousand Needles
+34,Guild Guild 2,Tauren,Hunter,Thousand Needles
+34,Guild Guild 20,Tauren,Shaman,Maraudon
+31,Guild Guild 18,Tauren,Shaman,Thunder Bluff
+49,Guild Guild 12,Tauren,Hunter,Swamp of Sorrows
+49,Guild Guild 12,Tauren,Druid,Tirisfal Glades
+48,Guild Guild 15,Tauren,Warrior,Durotar
+47,Guild Guild 15,Tauren,Shaman,Searing Gorge
+46,Guild Guild -1,Tauren,Hunter,Stranglethorn Vale
+42,Guild Guild 6,Tauren,Hunter,Mulgore
+47,Guild Guild 5,Tauren,Shaman,Scarlet Monastery
+46,Guild Guild 18,Tauren,Druid,Thunder Bluff
+53,Guild Guild 2,Tauren,Druid,Ashenvale
+52,Guild Guild 16,Tauren,Shaman,Stranglethorn Vale
+53,Guild Guild 6,Tauren,Druid,Felwood
+52,Guild Guild 19,Tauren,Warrior,Thunder Bluff
+57,Guild Guild 8,Tauren,Shaman,Feralas
+58,Guild Guild 5,Tauren,Druid,Thunder Bluff
+58,Guild Guild 16,Tauren,Shaman,Thunder Bluff
+60,Guild Guild 4,Tauren,Warrior,Durotar
+60,Guild Guild 17,Tauren,Warrior,Durotar
+60,Guild Guild 28,Tauren,Warrior,Eastern Plaguelands
+60,Guild Guild 5,Tauren,Hunter,Durotar
+60,Guild Guild 4,Tauren,Hunter,Blackrock Spire
+60,Guild Guild 5,Tauren,Shaman,Undercity
+60,Guild Guild 8,Tauren,Shaman,Mulgore
+60,Guild Guild 4,Tauren,Shaman,Blackrock Spire
+60,Guild Guild 20,Tauren,Shaman,Blackrock Spire
+60,Guild Guild 6,Tauren,Druid,Durotar
+60,Guild Guild 1,Tauren,Druid,Thunder Bluff
+60,Guild Guild 5,Tauren,Druid,Blackrock Spire
+11,Guild Guild -1,Troll,Rogue,Mulgore
+22,Guild Guild 10,Troll,Priest,The Barrens
+29,Guild Guild -1,Troll,Hunter,The Barrens
+37,Guild Guild 25,Troll,Mage,Thousand Needles
+35,Guild Guild 2,Troll,Mage,Orgrimmar
+40,Guild Guild 16,Troll,Warrior,Orgrimmar
+40,Guild Guild 8,Troll,Hunter,Durotar
+37,Guild Guild 7,Troll,Hunter,Stranglethorn Vale
+32,Guild Guild 8,Troll,Shaman,Thunder Bluff
+40,Guild Guild 10,Troll,Hunter,Thunder Bluff
+43,Guild Guild 5,Troll,Shaman,Western Plaguelands
+46,Guild Guild 7,Troll,Rogue,Durotar
+49,Guild Guild 32,Troll,Shaman,Durotar
+60,Guild Guild 17,Troll,Rogue,Orgrimmar
+60,Guild Guild 5,Troll,Rogue,Undercity
+60,Guild Guild 3,Troll,Rogue,Stratholme
+60,Guild Guild 29,Troll,Shaman,Durotar
+60,Guild Guild 4,Troll,Mage,Blackrock Spire
+60,Guild Guild 8,Troll,Rogue,Blackrock Spire
+15,Guild Guild -1,Undead,Warlock,Undercity
+19,Guild Guild 6,Undead,Mage,Shadowfang Keep
+11,Guild Guild -1,Undead,Warrior,Tirisfal Glades
+18,Guild Guild 16,Undead,Rogue,Thunder Bluff
+26,Guild Guild -1,Undead,Priest,Durotar
+29,Guild Guild 19,Undead,Mage,Durotar
+33,Guild Guild 6,Undead,Priest,Desolace
+34,Guild Guild 35,Undead,Priest,Maraudon
+33,Guild Guild 21,Undead,Mage,The Barrens
+45,Guild Guild 10,Undead,Warlock,Orgrimmar
+46,Guild Guild 7,Undead,Priest,Orgrimmar
+41,Guild Guild 22,Undead,Priest,Durotar
+43,Guild Guild 22,Undead,Mage,Durotar
+53,Guild Guild 0,Undead,Rogue,Durotar
+54,Guild Guild 5,Undead,Priest,Mulgore
+57,Guild Guild 5,Undead,Warlock,Orgrimmar
+56,Guild Guild 5,Undead,Priest,Swamp of Sorrows
+59,Guild Guild 14,Undead,Priest,Durotar
+58,Guild Guild 7,Undead,Rogue,Eastern Plaguelands
+59,Guild Guild 3,Undead,Priest,Thunder Bluff
+59,Guild Guild 4,Undead,Warlock,Blackrock Spire
+60,Guild Guild 5,Undead,Mage,Undercity
+60,Guild Guild 6,Undead,Mage,Durotar
+60,Guild Guild 20,Undead,Mage,Maraudon
+60,Guild Guild 19,Undead,Mage,Mulgore
+60,Guild Guild 5,Undead,Priest,Tirisfal Glades
+60,Guild Guild 1,Undead,Priest,Durotar
+60,Guild Guild 3,Undead,Priest,Western Plaguelands
+60,Guild Guild 5,Undead,Priest,Blackrock Spire
+60,Guild Guild 35,Undead,Rogue,Orgrimmar
+60,Guild Guild 15,Undead,Rogue,Durotar
+60,Guild Guild 7,Undead,Rogue,Durotar
+60,Guild Guild 20,Undead,Rogue,Maraudon
+60,Guild Guild 4,Undead,Rogue,Blackrock Spire
+60,Guild Guild 19,Undead,Warlock,Orgrimmar
+60,Guild Guild 12,Undead,Warlock,Durotar
+60,Guild Guild 7,Undead,Warlock,Durotar
+60,Guild Guild 20,Undead,Warlock,Maraudon
+60,Guild Guild 6,Undead,Warlock,Blackrock Spire
+60,Guild Guild 4,Undead,Warrior,Orgrimmar
+60,Guild Guild 5,Undead,Warrior,Undercity
+60,Guild Guild 4,Undead,Warrior,Blackrock Spire
+1,Guild Guild -1,Orc,Warrior,Durotar
+17,Guild Guild -1,Orc,Hunter,Undercity
+13,Guild Guild 5,Orc,Hunter,The Barrens
+35,Guild Guild 7,Orc,Hunter,Orgrimmar
+41,Guild Guild 2,Orc,Hunter,Durotar
+41,Guild Guild -1,Orc,Hunter,Durotar
+45,Guild Guild 11,Orc,Hunter,Durotar
+45,Guild Guild 14,Orc,Hunter,Durotar
+45,Guild Guild 5,Orc,Warlock,Scarlet Monastery
+45,Guild Guild 13,Orc,Hunter,The Barrens
+52,Guild Guild 2,Orc,Rogue,The Barrens
+53,Guild Guild 3,Orc,Warrior,Felwood
+55,Guild Guild 2,Orc,Hunter,Thunder Bluff
+56,Guild Guild 18,Orc,Rogue,Orgrimmar
+57,Guild Guild 28,Orc,Hunter,Blasted Lands
+60,Guild Guild 37,Orc,Hunter,Orgrimmar
+60,Guild Guild 3,Orc,Hunter,Stratholme
+60,Guild Guild 18,Orc,Hunter,Durotar
+60,Guild Guild 15,Orc,Warrior,Eastern Plaguelands
+60,Guild Guild 3,Orc,Warlock,Eastern Plaguelands
+60,Guild Guild 2,Orc,Hunter,Felwood
+10,Guild Guild 7,Tauren,Druid,Thunder Bluff
+19,Guild Guild -1,Tauren,Hunter,Tirisfal Glades
+11,Guild Guild 17,Tauren,Hunter,Mulgore
+12,Guild Guild -1,Tauren,Warrior,Mulgore
+14,Guild Guild 19,Tauren,Shaman,The Barrens
+25,Guild Guild 7,Tauren,Druid,Thousand Needles
+22,Guild Guild -1,Tauren,Warrior,The Barrens
+27,Guild Guild 3,Tauren,Warrior,The Barrens
+27,Guild Guild 21,Tauren,Warrior,Silverpine Forest
+29,Guild Guild 2,Tauren,Druid,Thunder Bluff
+30,Guild Guild 0,Tauren,Druid,Darkshore
+32,Guild Guild 24,Tauren,Shaman,Alterac Mountains
+31,Guild Guild 18,Tauren,Shaman,Durotar
+37,Guild Guild -1,Tauren,Warrior,Durotar
+32,Guild Guild 23,Tauren,Hunter,Desolace
+31,Guild Guild 22,Tauren,Druid,Thunder Bluff
+38,Guild Guild 3,Tauren,Druid,Thunder Bluff
+46,Guild Guild 18,Tauren,Druid,Thousand Needles
+48,Guild Guild 5,Tauren,Warrior,Hillsbrad Foothills
+45,Guild Guild 12,Tauren,Shaman,Tirisfal Glades
+44,Guild Guild 11,Tauren,Warrior,Durotar
+47,Guild Guild 15,Tauren,Shaman,Badlands
+45,Guild Guild -1,Tauren,Druid,Feralas
+42,Guild Guild 6,Tauren,Hunter,Thunder Bluff
+52,Guild Guild 15,Tauren,Druid,The Barrens
+52,Guild Guild 5,Tauren,Shaman,Felwood
+53,Guild Guild 2,Tauren,Druid,Felwood
+59,Guild Guild 8,Tauren,Warrior,Orgrimmar
+59,Guild Guild 8,Tauren,Shaman,Swamp of Sorrows
+60,Guild Guild 4,Tauren,Warrior,Tirisfal Glades
+60,Guild Guild 15,Tauren,Warrior,Stratholme
+60,Guild Guild 15,Tauren,Warrior,Durotar
+60,Guild Guild 1,Tauren,Warrior,Mulgore
+60,Guild Guild 17,Tauren,Hunter,Orgrimmar
+60,Guild Guild 19,Tauren,Shaman,Orgrimmar
+60,Guild Guild 3,Tauren,Shaman,Stratholme
+60,Guild Guild 8,Tauren,Shaman,Thunder Bluff
+60,Guild Guild 1,Tauren,Druid,Orgrimmar
+60,Guild Guild 8,Tauren,Druid,Swamp of Sorrows
+60,Guild Guild 3,Tauren,Druid,Stratholme
+60,Guild Guild 19,Tauren,Druid,Durotar
+1,Guild Guild -1,Troll,Rogue,Durotar
+3,Guild Guild -1,Troll,Shaman,Durotar
+9,Guild Guild -1,Troll,Mage,Durotar
+11,Guild Guild -1,Troll,Rogue,Durotar
+17,Guild Guild 16,Troll,Rogue,The Barrens
+28,Guild Guild -1,Troll,Warrior,Durotar
+24,Guild Guild 0,Troll,Hunter,Mulgore
+32,Guild Guild 11,Troll,Mage,Thousand Needles
+40,Guild Guild 10,Troll,Hunter,Tanaris
+33,Guild Guild 21,Troll,Rogue,Orgrimmar
+40,Guild Guild 16,Troll,Warrior,Thunder Bluff
+43,Guild Guild 2,Troll,Hunter,Orgrimmar
+44,Guild Guild 15,Troll,Shaman,Orgrimmar
+43,Guild Guild 5,Troll,Shaman,Scarlet Monastery
+54,Guild Guild 22,Troll,Hunter,Orgrimmar
+57,Guild Guild -1,Troll,Hunter,The Barrens
+58,Guild Guild 13,Troll,Rogue,Durotar
+60,Guild Guild 4,Troll,Shaman,Orgrimmar
+60,Guild Guild 15,Troll,Hunter,Durotar
+18,Guild Guild 30,Undead,Warlock,Orgrimmar
+11,Guild Guild -1,Undead,Warrior,Undercity
+11,Guild Guild -1,Undead,Priest,Tirisfal Glades
+15,Guild Guild -1,Undead,Mage,Tirisfal Glades
+16,Guild Guild -1,Undead,Warlock,Silverpine Forest
+23,Guild Guild 4,Undead,Priest,The Barrens
+28,Guild Guild 19,Undead,Mage,Orgrimmar
+26,Guild Guild -1,Undead,Priest,Ashenvale
+35,Guild Guild 19,Undead,Mage,Thousand Needles
+38,Guild Guild 6,Undead,Priest,Orgrimmar
+39,Guild Guild 29,Undead,Mage,Undercity
+33,Guild Guild -1,Undead,Warlock,Ashenvale
+34,Guild Guild -1,Undead,Warrior,Ashenvale
+33,Guild Guild 24,Undead,Priest,The Barrens
+33,Guild Guild 21,Undead,Mage,Silverpine Forest
+35,Guild Guild 0,Undead,Rogue,Arathi Highlands
+33,Guild Guild 13,Undead,Mage,Thunder Bluff
+45,Guild Guild 15,Undead,Rogue,Orgrimmar
+44,Guild Guild 21,Undead,Warlock,Hillsbrad Foothills
+45,Guild Guild 5,Undead,Mage,Undercity
+46,Guild Guild 7,Undead,Priest,Durotar
+48,Guild Guild 4,Undead,Warlock,Durotar
+43,Guild Guild 3,Undead,Rogue,Thunder Bluff
+53,Guild Guild 20,Undead,Warlock,Winterspring
+54,Guild Guild 5,Undead,Priest,Orgrimmar
+54,Guild Guild 19,Undead,Rogue,Orgrimmar
+55,Guild Guild 19,Undead,Priest,Durotar
+55,Guild Guild 17,Undead,Rogue,Mulgore
+54,Guild Guild 0,Undead,Rogue,The Barrens
+57,Guild Guild 5,Undead,Warlock,The Barrens
+56,Guild Guild 2,Undead,Mage,Felwood
+58,Guild Guild -1,Undead,Warlock,Orgrimmar
+59,Guild Guild 3,Undead,Priest,Stratholme
+60,Guild Guild 5,Undead,Priest,Undercity
+60,Guild Guild 3,Undead,Priest,Stratholme
+60,Guild Guild 1,Undead,Priest,Arathi Basin
+60,Guild Guild 7,Undead,Warlock,Tirisfal Glades
+60,Guild Guild 3,Undead,Warlock,Stratholme
+60,Guild Guild 5,Undead,Warrior,Eastern Plaguelands
+1,Guild Guild -1,Orc,Shaman,Orgrimmar
+6,Guild Guild -1,Orc,Warrior,Durotar
+30,Guild Guild -1,Orc,Shaman,Orgrimmar
+21,Guild Guild -1,Orc,Hunter,Mulgore
+39,Guild Guild 8,Orc,Warlock,Desolace
+42,Guild Guild 11,Orc,Shaman,Durotar
+44,Guild Guild 3,Orc,Hunter,Durotar
+45,Guild Guild 13,Orc,Hunter,Durotar
+45,Guild Guild 14,Orc,Hunter,The Barrens
+48,Guild Guild 4,Orc,Shaman,The Hinterlands
+60,Guild Guild 15,Orc,Warrior,Stratholme
+60,Guild Guild 3,Orc,Warlock,Stratholme
+60,Guild Guild 17,Orc,Warrior,Durotar
+60,Guild Guild 8,Orc,Hunter,Durotar
+1,Guild Guild -1,Tauren,Druid,Mulgore
+6,Guild Guild -1,Tauren,Druid,Mulgore
+20,Guild Guild 26,Tauren,Shaman,The Barrens
+25,Guild Guild 21,Tauren,Warrior,Shadowfang Keep
+27,Guild Guild 3,Tauren,Warrior,Stonetalon Mountains
+29,Guild Guild 2,Tauren,Druid,Stonetalon Mountains
+23,Guild Guild -1,Tauren,Warrior,The Barrens
+35,Guild Guild 2,Tauren,Hunter,Thousand Needles
+32,Guild Guild 13,Tauren,Warrior,Orgrimmar
+31,Guild Guild 18,Tauren,Shaman,Alterac Mountains
+35,Guild Guild 8,Tauren,Shaman,Hillsbrad Foothills
+37,Guild Guild -1,Tauren,Warrior,Undercity
+32,Guild Guild 24,Tauren,Shaman,Tirisfal Glades
+35,Guild Guild 24,Tauren,Druid,Moonglade
+31,Guild Guild 22,Tauren,Druid,The Barrens
+40,Guild Guild -1,Tauren,Warrior,Thunder Bluff
+42,Guild Guild 6,Tauren,Hunter,Orgrimmar
+46,Guild Guild 2,Tauren,Warrior,Orgrimmar
+49,Guild Guild 3,Tauren,Warrior,Orgrimmar
+45,Guild Guild 12,Tauren,Shaman,Undercity
+42,Guild Guild 2,Tauren,Shaman,Feralas
+47,Guild Guild 15,Tauren,Shaman,The Hinterlands
+53,Guild Guild 8,Tauren,Warrior,Durotar
+52,Guild Guild 15,Tauren,Druid,Stranglethorn Vale
+52,Guild Guild 5,Tauren,Shaman,The Barrens
+58,Guild Guild 16,Tauren,Shaman,Tanaris
+58,Guild Guild 16,Tauren,Warrior,Orgrimmar
+60,Guild Guild 0,Tauren,Warrior,Durotar
+60,Guild Guild 4,Tauren,Warrior,Eastern Plaguelands
+60,Guild Guild 1,Tauren,Warrior,Thunder Bluff
+60,Guild Guild 5,Tauren,Shaman,Western Plaguelands
+60,Guild Guild 8,Tauren,Druid,Stonetalon Mountains
+4,Guild Guild -1,Troll,Shaman,Durotar
+10,Guild Guild -1,Troll,Shaman,Durotar
+12,Guild Guild -1,Troll,Rogue,Mulgore
+14,Guild Guild 30,Troll,Rogue,The Barrens
+26,Guild Guild 30,Troll,Hunter,Thousand Needles
+29,Guild Guild -1,Troll,Hunter,Thousand Needles
+28,Guild Guild 13,Troll,Hunter,Orgrimmar
+22,Guild Guild -1,Troll,Mage,Ashenvale
+28,Guild Guild 6,Troll,Hunter,Stonetalon Mountains
+30,Guild Guild 7,Troll,Priest,Stonetalon Mountains
+24,Guild Guild 0,Troll,Hunter,Thunder Bluff
+37,Guild Guild 25,Troll,Mage,Feralas
+38,Guild Guild 6,Troll,Mage,Feralas
+31,Guild Guild 34,Troll,Hunter,The Barrens
+33,Guild Guild 21,Troll,Rogue,Silverpine Forest
+34,Guild Guild 8,Troll,Priest,Arathi Highlands
+35,Guild Guild 8,Troll,Mage,Arathi Highlands
+44,Guild Guild 15,Troll,Shaman,Stranglethorn Vale
+55,Guild Guild 12,Troll,Rogue,Tanaris
+52,Guild Guild 3,Troll,Warrior,Orgrimmar
+53,Guild Guild 7,Troll,Mage,Orgrimmar
+53,Guild Guild 3,Troll,Priest,Orgrimmar
+53,Guild Guild 5,Troll,Priest,Durotar
+54,Guild Guild 26,Troll,Hunter,The Barrens
+57,Guild Guild -1,Troll,Hunter,Durotar
+58,Guild Guild 13,Troll,Rogue,Tirisfal Glades
+60,Guild Guild -1,Troll,Mage,Orgrimmar
+60,Guild Guild 15,Troll,Shaman,Durotar
+60,Guild Guild 5,Troll,Rogue,Eastern Plaguelands
+60,Guild Guild 15,Troll,Hunter,Stranglethorn Vale
+1,Guild Guild -1,Undead,Priest,Tirisfal Glades
+1,Guild Guild -1,Undead,Rogue,Tirisfal Glades
+7,Guild Guild -1,Undead,Mage,Tirisfal Glades
+8,Guild Guild -1,Undead,Mage,Tirisfal Glades
+11,Guild Guild -1,Undead,Priest,Durotar
+19,Guild Guild 19,Undead,Mage,The Barrens
+21,Guild Guild -1,Undead,Priest,The Barrens
+28,Guild Guild 19,Undead,Mage,Ashenvale
+33,Guild Guild 24,Undead,Priest,Orgrimmar
+36,Guild Guild -1,Undead,Warlock,Stonetalon Mountains
+35,Guild Guild 15,Undead,Warlock,Stranglethorn Vale
+34,Guild Guild 20,Undead,Priest,Thunder Bluff
+45,Guild Guild 3,Undead,Priest,Tanaris
+46,Guild Guild 7,Undead,Priest,Tanaris
+50,Guild Guild 5,Undead,Priest,Tanaris
+45,Guild Guild 24,Undead,Rogue,Orgrimmar
+45,Guild Guild 5,Undead,Rogue,Hillsbrad Foothills
+46,Guild Guild 5,Undead,Mage,Undercity
+43,Guild Guild 13,Undead,Priest,Tirisfal Glades
+42,Guild Guild 11,Undead,Mage,Durotar
+45,Guild Guild 8,Undead,Mage,Desolace
+47,Guild Guild 16,Undead,Priest,The Hinterlands
+53,Guild Guild 3,Undead,Mage,Orgrimmar
+54,Guild Guild 29,Undead,Priest,Durotar
+54,Guild Guild 19,Undead,Rogue,Feralas
+55,Guild Guild 17,Undead,Rogue,The Barrens
+56,Guild Guild 15,Undead,Mage,Orgrimmar
+56,Guild Guild 2,Undead,Mage,Moonglade
+59,Guild Guild 19,Undead,Priest,Orgrimmar
+59,Guild Guild 14,Undead,Priest,Undercity
+59,Guild Guild 16,Undead,Rogue,Undercity
+58,Guild Guild -1,Undead,Warlock,Durotar
+60,Guild Guild 5,Undead,Mage,Eastern Plaguelands
+60,Guild Guild 5,Undead,Priest,Eastern Plaguelands
+60,Guild Guild 35,Undead,Rogue,Durotar
+60,Guild Guild 7,Undead,Rogue,Western Plaguelands
+60,Guild Guild 8,Undead,Warlock,Orgrimmar
+60,Guild Guild 31,Undead,Warlock,Azshara
+1,Guild Guild -1,Orc,Warrior,Orgrimmar
+14,Guild Guild 0,Orc,Warrior,The Barrens
+23,Guild Guild -1,Orc,Shaman,Orgrimmar
+26,Guild Guild -1,Orc,Shaman,Orgrimmar
+30,Guild Guild -1,Orc,Shaman,Ashenvale
+49,Guild Guild 14,Orc,Shaman,Searing Gorge
+46,Guild Guild 31,Orc,Warrior,Stranglethorn Vale
+48,Guild Guild 10,Orc,Warrior,Thunder Bluff
+55,Guild Guild 2,Orc,Hunter,Orgrimmar
+55,Guild Guild 5,Orc,Warrior,The Barrens
+53,Guild Guild 3,Orc,Hunter,Thunder Bluff
+56,Guild Guild 2,Orc,Warrior,Durotar
+57,Guild Guild 3,Orc,Rogue,Burning Steppes
+60,Guild Guild 17,Orc,Warrior,Western Plaguelands
+60,Guild Guild 18,Orc,Warrior,Felwood
+27,Guild Guild 21,Tauren,Warrior,Shadowfang Keep
+22,Guild Guild -1,Tauren,Druid,Ashenvale
+21,Guild Guild 26,Tauren,Shaman,The Barrens
+40,Guild Guild -1,Tauren,Warrior,Tanaris
+31,Guild Guild 18,Tauren,Shaman,Hillsbrad Foothills
+32,Guild Guild 13,Tauren,Warrior,Tirisfal Glades
+31,Guild Guild 22,Tauren,Druid,Durotar
+34,Guild Guild 3,Tauren,Warrior,Durotar
+40,Guild Guild 1,Tauren,Warrior,Desolace
+31,Guild Guild 23,Tauren,Shaman,Stonetalon Mountains
+32,Guild Guild 23,Tauren,Hunter,Stonetalon Mountains
+35,Guild Guild 24,Tauren,Druid,Stonetalon Mountains
+32,Guild Guild 24,Tauren,Shaman,The Barrens
+37,Guild Guild -1,Tauren,Warrior,Arathi Highlands
+42,Guild Guild 2,Tauren,Shaman,Thousand Needles
+46,Guild Guild 18,Tauren,Druid,Tanaris
+42,Guild Guild -1,Tauren,Warrior,Orgrimmar
+46,Guild Guild -1,Tauren,Hunter,Orgrimmar
+50,Guild Guild -1,Tauren,Druid,Orgrimmar
+49,Guild Guild 3,Tauren,Warrior,Durotar
+41,Guild Guild 2,Tauren,Warrior,Stranglethorn Vale
+46,Guild Guild 2,Tauren,Warrior,Feralas
+53,Guild Guild 8,Tauren,Warrior,Swamp of Sorrows
+55,Guild Guild 1,Tauren,Hunter,Durotar
+52,Guild Guild 5,Tauren,Shaman,Desolace
+56,Guild Guild 2,Tauren,Druid,Hillsbrad Foothills
+58,Guild Guild 16,Tauren,Warrior,Thousand Needles
+59,Guild Guild 17,Tauren,Druid,Orgrimmar
+59,Guild Guild 25,Tauren,Hunter,Orgrimmar
+58,Guild Guild 16,Tauren,Shaman,Un'Goro Crater
+58,Guild Guild 29,Tauren,Warrior,Stranglethorn Vale
+60,Guild Guild 0,Tauren,Warrior,Swamp of Sorrows
+60,Guild Guild 4,Tauren,Warrior,Badlands
+60,Guild Guild 4,Tauren,Hunter,Western Plaguelands
+60,Guild Guild 8,Tauren,Shaman,Orgrimmar
+60,Guild Guild 5,Tauren,Shaman,Eastern Plaguelands
+60,Guild Guild 3,Tauren,Shaman,Burning Steppes
+60,Guild Guild 8,Tauren,Druid,Thunder Bluff
+12,Guild Guild -1,Troll,Hunter,Durotar
+17,Guild Guild 16,Troll,Rogue,Mulgore
+28,Guild Guild 6,Troll,Hunter,Orgrimmar
+28,Guild Guild 13,Troll,Hunter,Durotar
+25,Guild Guild 0,Troll,Hunter,The Barrens
+40,Guild Guild -1,Troll,Rogue,Orgrimmar
+33,Guild Guild 21,Troll,Rogue,Shadowfang Keep
+54,Guild Guild 22,Troll,Hunter,Dustwallow Marsh
+53,Guild Guild 7,Troll,Mage,Alterac Mountains
+51,Guild Guild 5,Troll,Shaman,Undercity
+53,Guild Guild 5,Troll,Priest,Azshara
+52,Guild Guild -1,Troll,Hunter,Feralas
+57,Guild Guild 3,Troll,Warrior,Burning Steppes
+57,Guild Guild 3,Troll,Priest,Burning Steppes
+58,Guild Guild 3,Troll,Mage,Burning Steppes
+60,Guild Guild 33,Troll,Hunter,Winterspring
+60,Guild Guild 2,Troll,Hunter,Orgrimmar
+60,Guild Guild 4,Troll,Shaman,Durotar
+60,Guild Guild 15,Troll,Shaman,The Hinterlands
+11,Guild Guild -1,Undead,Priest,Orgrimmar
+18,Guild Guild 15,Undead,Warrior,Mulgore
+18,Guild Guild 16,Undead,Rogue,The Barrens
+23,Guild Guild 4,Undead,Priest,Ashenvale
+28,Guild Guild 1,Undead,Warlock,Thousand Needles
+27,Guild Guild 11,Undead,Priest,The Barrens
+34,Guild Guild -1,Undead,Priest,Hillsbrad Foothills
+36,Guild Guild 3,Undead,Mage,Hillsbrad Foothills
+34,Guild Guild 24,Undead,Warlock,Undercity
+33,Guild Guild 21,Undead,Mage,Shadowfang Keep
+36,Guild Guild 7,Undead,Warlock,Stonetalon Mountains
+40,Guild Guild 2,Undead,Warlock,Stonetalon Mountains
+44,Guild Guild -1,Undead,Warrior,Hillsbrad Foothills
+50,Guild Guild 2,Undead,Priest,Hillsbrad Foothills
+41,Guild Guild 3,Undead,Mage,Stranglethorn Vale
+47,Guild Guild 16,Undead,Priest,Feralas
+43,Guild Guild 22,Undead,Mage,The Barrens
+45,Guild Guild 24,Undead,Rogue,The Barrens
+50,Guild Guild 5,Undead,Priest,The Barrens
+46,Guild Guild 5,Undead,Mage,The Hinterlands
+52,Guild Guild 5,Undead,Mage,Orgrimmar
+54,Guild Guild 29,Undead,Priest,Swamp of Sorrows
+55,Guild Guild 17,Undead,Rogue,Durotar
+53,Guild Guild 3,Undead,Mage,Thunder Bluff
+56,Guild Guild 2,Undead,Mage,Orgrimmar
+57,Guild Guild 26,Undead,Mage,Undercity
+58,Guild Guild 5,Undead,Priest,Orgrimmar
+58,Guild Guild -1,Undead,Warlock,Swamp of Sorrows
+58,Guild Guild 7,Undead,Rogue,Tirisfal Glades
+59,Guild Guild 16,Undead,Rogue,Stranglethorn Vale
+60,Guild Guild 4,Undead,Mage,Orgrimmar
+60,Guild Guild 15,Undead,Priest,Searing Gorge
+60,Guild Guild 7,Undead,Rogue,Eastern Plaguelands
+60,Guild Guild 3,Undead,Warlock,Tirisfal Glades
+60,Guild Guild 34,Undead,Warlock,Durotar
+60,Guild Guild 12,Undead,Warlock,The Barrens
+60,Guild Guild 7,Undead,Warlock,The Barrens
+1,Guild Guild -1,Orc,Hunter,Orgrimmar
+24,Guild Guild -1,Orc,Hunter,Stonetalon Mountains
+21,Guild Guild -1,Orc,Hunter,The Barrens
+23,Guild Guild -1,Orc,Shaman,The Barrens
+31,Guild Guild 33,Orc,Warrior,Thousand Needles
+35,Guild Guild 13,Orc,Hunter,Orgrimmar
+48,Guild Guild 10,Orc,Warrior,Orgrimmar
+45,Guild Guild 13,Orc,Hunter,Undercity
+57,Guild Guild 7,Orc,Hunter,Orgrimmar
+57,Guild Guild 5,Orc,Hunter,Orgrimmar
+57,Guild Guild 28,Orc,Hunter,Orgrimmar
+57,Guild Guild 3,Orc,Rogue,Blackrock Mountain
+60,Guild Guild 4,Orc,Warrior,Orgrimmar
+60,Guild Guild 14,Orc,Warrior,Orgrimmar
+60,Guild Guild 2,Orc,Hunter,Undercity
+12,Guild Guild -1,Tauren,Hunter,Mulgore
+20,Guild Guild 12,Tauren,Shaman,The Barrens
+15,Guild Guild 2,Tauren,Druid,Thunder Bluff
+25,Guild Guild 7,Tauren,Druid,Stonetalon Mountains
+35,Guild Guild 24,Tauren,Druid,Orgrimmar
+40,Guild Guild 19,Tauren,Warrior,Orgrimmar
+34,Guild Guild 3,Tauren,Warrior,Alterac Mountains
+32,Guild Guild 24,Tauren,Shaman,Stranglethorn Vale
+42,Guild Guild 6,Tauren,Hunter,Tirisfal Glades
+49,Guild Guild 3,Tauren,Warrior,Feralas
+46,Guild Guild 19,Tauren,Druid,Blasted Lands
+45,Guild Guild 12,Tauren,Shaman,The Barrens
+47,Guild Guild 5,Tauren,Druid,The Barrens
+48,Guild Guild 5,Tauren,Warrior,The Hinterlands
+42,Guild Guild 2,Tauren,Shaman,Thunder Bluff
+51,Guild Guild 5,Tauren,Warrior,Orgrimmar
+55,Guild Guild 1,Tauren,Hunter,Tirisfal Glades
+52,Guild Guild 5,Tauren,Shaman,Durotar
+56,Guild Guild 6,Tauren,Warrior,Orgrimmar
+56,Guild Guild 2,Tauren,Druid,Arathi Highlands
+58,Guild Guild 16,Tauren,Warrior,Tanaris
+58,Guild Guild 29,Tauren,Warrior,Swamp of Sorrows
+59,Guild Guild 8,Tauren,Warrior,Moonglade
+59,Guild Guild 17,Tauren,Druid,Durotar
+59,Guild Guild 25,Tauren,Hunter,Durotar
+60,Guild Guild 1,Tauren,Warrior,Orgrimmar
+60,Guild Guild 10,Tauren,Warrior,Orgrimmar
+60,Guild Guild 15,Tauren,Warrior,Orgrimmar
+60,Guild Guild 1,Tauren,Warrior,Tirisfal Glades
+60,Guild Guild 4,Tauren,Warrior,Burning Steppes
+60,Guild Guild 4,Tauren,Hunter,Orgrimmar
+60,Guild Guild 17,Tauren,Hunter,Durotar
+60,Guild Guild 1,Tauren,Shaman,Orgrimmar
+60,Guild Guild 19,Tauren,Druid,Hillsbrad Foothills
+60,Guild Guild 4,Tauren,Druid,Undercity
+5,Guild Guild -1,Troll,Shaman,Durotar
+11,Guild Guild -1,Troll,Rogue,Orgrimmar
+17,Guild Guild 16,Troll,Rogue,Thunder Bluff
+28,Guild Guild 13,Troll,Hunter,Undercity
+25,Guild Guild 2,Troll,Hunter,The Barrens
+30,Guild Guild 7,Troll,Priest,The Barrens
+24,Guild Guild 31,Troll,Rogue,Silverpine Forest
+40,Guild Guild 2,Troll,Rogue,Orgrimmar
+37,Guild Guild 25,Troll,Mage,Mulgore
+43,Guild Guild 2,Troll,Hunter,Durotar
+50,Guild Guild 5,Troll,Mage,Orgrimmar
+49,Guild Guild 32,Troll,Shaman,Undercity
+48,Guild Guild 32,Troll,Rogue,Feralas
+52,Guild Guild -1,Troll,Warrior,Tanaris
+51,Guild Guild 5,Troll,Shaman,The Hinterlands
+53,Guild Guild 7,Troll,Mage,The Hinterlands
+60,Guild Guild -1,Troll,Mage,Winterspring
+60,Guild Guild 4,Troll,Hunter,Orgrimmar
+60,Guild Guild 5,Troll,Rogue,Orgrimmar
+60,Guild Guild 4,Troll,Rogue,Orgrimmar
+60,Guild Guild 1,Troll,Rogue,Orgrimmar
+60,Guild Guild 28,Troll,Shaman,Orgrimmar
+60,Guild Guild -1,Troll,Shaman,Western Plaguelands
+3,Guild Guild -1,Undead,Warlock,Undercity
+12,Guild Guild 12,Undead,Mage,Undercity
+12,Guild Guild 30,Undead,Warrior,The Barrens
+22,Guild Guild 6,Undead,Rogue,Orgrimmar
+27,Guild Guild 11,Undead,Priest,Orgrimmar
+36,Guild Guild 7,Undead,Warlock,Alterac Mountains
+39,Guild Guild 3,Undead,Warlock,Undercity
+34,Guild Guild 24,Undead,Warlock,Tirisfal Glades
+40,Guild Guild 1,Undead,Priest,Tirisfal Glades
+42,Guild Guild 19,Undead,Priest,Swamp of Sorrows
+43,Guild Guild 22,Undead,Mage,Stranglethorn Vale
+43,Guild Guild 3,Undead,Rogue,Stranglethorn Vale
+45,Guild Guild 24,Undead,Rogue,Stranglethorn Vale
+41,Guild Guild 3,Undead,Mage,Redridge Mountains
+50,Guild Guild 2,Undead,Priest,Arathi Highlands
+55,Guild Guild 4,Undead,Warrior,Orgrimmar
+53,Guild Guild 5,Undead,Priest,Desolace
+54,Guild Guild 29,Undead,Priest,The Temple of Atal'Hakkar
+57,Guild Guild 26,Undead,Mage,Badlands
+58,Guild Guild 5,Undead,Priest,Durotar
+59,Guild Guild 16,Undead,Rogue,Searing Gorge
+58,Guild Guild 7,Undead,Rogue,Western Plaguelands
+58,Guild Guild -1,Undead,Warlock,The Temple of Atal'Hakkar
+60,Guild Guild 1,Undead,Priest,Orgrimmar
+60,Guild Guild 34,Undead,Warlock,Orgrimmar
+60,Guild Guild 31,Undead,Warlock,Ashenvale
+60,Guild Guild 4,Undead,Warrior,Hall of Legends
+14,Guild Guild 14,Orc,Hunter,Mulgore
+19,Guild Guild 16,Orc,Hunter,Thunder Bluff
+35,Guild Guild 34,Orc,Hunter,Orgrimmar
+35,Guild Guild 4,Orc,Warrior,Ashenvale
+45,Guild Guild 13,Orc,Hunter,Scarlet Monastery
+45,Guild Guild 9,Orc,Hunter,The Barrens
+55,Guild Guild 5,Orc,Warrior,Tanaris
+56,Guild Guild 2,Orc,Warrior,Orgrimmar
+56,Guild Guild 15,Orc,Warrior,Orgrimmar
+57,Guild Guild 7,Orc,Hunter,Undercity
+60,Guild Guild 8,Orc,Hunter,The Barrens
+60,Guild Guild 2,Orc,Hunter,Arathi Highlands
+7,Guild Guild -1,Tauren,Warrior,Mulgore
+17,Guild Guild -1,Tauren,Druid,Durotar
+19,Guild Guild 9,Tauren,Warrior,The Barrens
+19,Guild Guild -1,Tauren,Hunter,Thunder Bluff
+21,Guild Guild 18,Tauren,Shaman,Orgrimmar
+32,Guild Guild 13,Tauren,Warrior,Scarlet Monastery
+39,Guild Guild 24,Tauren,Hunter,Gnomeregan
+34,Guild Guild 3,Tauren,Warrior,Arathi Highlands
+45,Guild Guild 12,Tauren,Shaman,Razorfen Downs
+42,Guild Guild 2,Tauren,Shaman,Orgrimmar
+44,Guild Guild 27,Tauren,Warrior,Orgrimmar
+45,Guild Guild 34,Tauren,Hunter,Orgrimmar
+46,Guild Guild 19,Tauren,Druid,Orgrimmar
+49,Guild Guild -1,Tauren,Druid,Orgrimmar
+42,Guild Guild -1,Tauren,Warrior,Durotar
+47,Guild Guild 5,Tauren,Druid,Desolace
+50,Guild Guild 3,Tauren,Warrior,Feralas
+49,Guild Guild 12,Tauren,Druid,Silverpine Forest
+42,Guild Guild 6,Tauren,Hunter,Arathi Highlands
+55,Guild Guild 34,Tauren,Shaman,Tirisfal Glades
+51,Guild Guild 5,Tauren,Warrior,Desolace
+55,Guild Guild 1,Tauren,Hunter,Western Plaguelands
+53,Guild Guild 8,Tauren,Warrior,The Temple of Atal'Hakkar
+56,Guild Guild 6,Tauren,Warrior,Durotar
+58,Guild Guild 16,Tauren,Warrior,Un'Goro Crater
+59,Guild Guild 17,Tauren,Druid,The Barrens
+58,Guild Guild 29,Tauren,Warrior,The Temple of Atal'Hakkar
+60,Guild Guild 17,Tauren,Warrior,Western Plaguelands
+60,Guild Guild 0,Tauren,Warrior,The Temple of Atal'Hakkar
+60,Guild Guild 1,Tauren,Warrior,Arathi Highlands
+60,Guild Guild 8,Tauren,Druid,The Barrens
+6,Guild Guild -1,Troll,Rogue,Orgrimmar
+11,Guild Guild -1,Troll,Shaman,Orgrimmar
+15,Guild Guild 7,Troll,Mage,Orgrimmar
+14,Guild Guild 30,Troll,Rogue,Durotar
+30,Guild Guild 7,Troll,Priest,Orgrimmar
+28,Guild Guild 13,Troll,Hunter,Scarlet Monastery
+25,Guild Guild 8,Troll,Shaman,The Barrens
+33,Guild Guild -1,Troll,Hunter,Duskwood
+37,Guild Guild 25,Troll,Mage,Thunder Bluff
+43,Guild Guild 2,Troll,Hunter,Stranglethorn Vale
+46,Guild Guild 25,Troll,Hunter,Tirisfal Glades
+50,Guild Guild 5,Troll,Mage,Mulgore
+49,Guild Guild 32,Troll,Shaman,The Hinterlands
+51,Guild Guild 2,Troll,Rogue,Tanaris
+53,Guild Guild -1,Troll,Warrior,Tanaris
+55,Guild Guild 12,Troll,Rogue,Orgrimmar
+53,Guild Guild 7,Troll,Mage,Undercity
+51,Guild Guild 5,Troll,Shaman,Loch Modan
+53,Guild Guild 5,Troll,Priest,The Barrens
+57,Guild Guild -1,Troll,Hunter,Azshara
+58,Guild Guild 13,Troll,Rogue,Scarlet Monastery
+60,Guild Guild 6,Troll,Rogue,Winterspring
+60,Guild Guild 17,Troll,Rogue,Tirisfal Glades
+60,Guild Guild 4,Troll,Hunter,Durotar
+60,Guild Guild 4,Troll,Rogue,Eastern Plaguelands
+60,Guild Guild 4,Troll,Shaman,Eastern Plaguelands
+60,Guild Guild -1,Troll,Mage,Azshara
+60,Guild Guild 1,Troll,Rogue,Arathi Basin
+1,Guild Guild -1,Undead,Priest,Orgrimmar
+7,Guild Guild -1,Undead,Warlock,Tirisfal Glades
+14,Guild Guild 21,Undead,Rogue,Tirisfal Glades
+19,Guild Guild 16,Undead,Rogue,The Barrens
+12,Guild Guild 12,Undead,Mage,Silverpine Forest
+20,Guild Guild -1,Undead,Warrior,Silverpine Forest
+19,Guild Guild 15,Undead,Warrior,Thunder Bluff
+22,Guild Guild 6,Undead,Rogue,The Barrens
+28,Guild Guild 21,Undead,Warrior,Stonetalon Mountains
+34,Guild Guild 24,Undead,Warlock,Orgrimmar
+35,Guild Guild 8,Undead,Warrior,Undercity
+36,Guild Guild 7,Undead,Warlock,Undercity
+36,Guild Guild 8,Undead,Priest,Stranglethorn Vale
+36,Guild Guild 8,Undead,Rogue,Stranglethorn Vale
+39,Guild Guild 3,Undead,Warlock,Stranglethorn Vale
+40,Guild Guild 1,Undead,Priest,Scarlet Monastery
+48,Guild Guild 4,Undead,Mage,Tanaris
+41,Guild Guild 3,Undead,Mage,Badlands
+43,Guild Guild 13,Undead,Priest,Scarlet Monastery
+51,Guild Guild 5,Undead,Priest,Tanaris
+54,Guild Guild 10,Undead,Rogue,Undercity
+54,Guild Guild 15,Undead,Priest,Durotar
+55,Guild Guild 4,Undead,Warrior,Mulgore
+56,Guild Guild 2,Undead,Mage,Durotar
+56,Guild Guild 19,Undead,Priest,Searing Gorge
+57,Guild Guild 26,Undead,Mage,Western Plaguelands
+58,Guild Guild 5,Undead,Priest,Ashenvale
+59,Guild Guild 16,Undead,Rogue,Western Plaguelands
+60,Guild Guild 17,Undead,Priest,Orgrimmar
+60,Guild Guild 12,Undead,Warlock,Razorfen Downs
+60,Guild Guild 31,Undead,Warlock,Thousand Needles
+60,Guild Guild 7,Undead,Warlock,Western Plaguelands
+12,Guild Guild -1,Orc,Hunter,Tirisfal Glades
+19,Guild Guild 16,Orc,Hunter,The Barrens
+28,Guild Guild 34,Orc,Hunter,Thousand Needles
+27,Guild Guild 1,Orc,Hunter,Ashenvale
+26,Guild Guild -1,Orc,Shaman,The Barrens
+45,Guild Guild 9,Orc,Hunter,Thunder Bluff
+56,Guild Guild 15,Orc,Warrior,Durotar
+57,Guild Guild 5,Orc,Hunter,Durotar
+57,Guild Guild 28,Orc,Hunter,Durotar
+57,Guild Guild 7,Orc,Hunter,Silverpine Forest
+60,Guild Guild 4,Orc,Warrior,Durotar
+18,Guild Guild -1,Tauren,Warrior,Orgrimmar
+12,Guild Guild -1,Tauren,Druid,The Barrens
+14,Guild Guild 8,Tauren,Warrior,The Barrens
+19,Guild Guild -1,Tauren,Warrior,The Barrens
+20,Guild Guild -1,Tauren,Hunter,Thunder Bluff
+32,Guild Guild 24,Tauren,Shaman,Durotar
+39,Guild Guild 24,Tauren,Hunter,Stranglethorn Vale
+45,Guild Guild 34,Tauren,Hunter,Durotar
+49,Guild Guild -1,Tauren,Druid,Durotar
+49,Guild Guild 17,Tauren,Druid,Durotar
+42,Guild Guild -1,Tauren,Warrior,Stranglethorn Vale
+55,Guild Guild 34,Tauren,Shaman,Durotar
+59,Guild Guild 8,Tauren,Warrior,Durotar
+60,Guild Guild 1,Tauren,Warrior,Durotar
+60,Guild Guild 17,Tauren,Warrior,Eastern Plaguelands
+60,Guild Guild 17,Tauren,Hunter,Eastern Plaguelands
+60,Guild Guild 8,Tauren,Druid,Tanaris
+60,Guild Guild 4,Tauren,Druid,Tirisfal Glades
+60,Guild Guild 1,Tauren,Druid,Durotar
+15,Guild Guild 7,Troll,Mage,The Barrens
+20,Guild Guild -1,Troll,Rogue,The Barrens
+12,Guild Guild -1,Troll,Rogue,Thunder Bluff
+30,Guild Guild 7,Troll,Priest,Undercity
+28,Guild Guild 6,Troll,Hunter,Thunder Bluff
+33,Guild Guild -1,Troll,Hunter,Stranglethorn Vale
+36,Guild Guild 2,Troll,Shaman,Silverpine Forest
+46,Guild Guild 25,Troll,Hunter,Hillsbrad Foothills
+53,Guild Guild 3,Troll,Warrior,Tanaris
+53,Guild Guild 5,Troll,Priest,Tanaris
+51,Guild Guild 5,Troll,Shaman,Swamp of Sorrows
+54,Guild Guild 22,Troll,Hunter,Durotar
+55,Guild Guild 12,Troll,Rogue,Durotar
+51,Guild Guild 2,Troll,Rogue,The Barrens
+52,Guild Guild -1,Troll,Hunter,The Barrens
+57,Guild Guild 35,Troll,Mage,Winterspring
+60,Guild Guild -1,Troll,Mage,Undercity
+60,Guild Guild 17,Troll,Rogue,Eastern Plaguelands
+10,Guild Guild -1,Undead,Warlock,Tirisfal Glades
+17,Guild Guild -1,Undead,Rogue,Orgrimmar
+19,Guild Guild 15,Undead,Warrior,The Barrens
+20,Guild Guild 8,Undead,Rogue,Silverpine Forest
+21,Guild Guild -1,Undead,Warlock,Undercity
+27,Guild Guild 13,Undead,Mage,Thousand Needles
+29,Guild Guild -1,Undead,Priest,Ashenvale
+38,Guild Guild -1,Undead,Mage,Orgrimmar
+40,Guild Guild 15,Undead,Mage,Orgrimmar
+34,Guild Guild 20,Undead,Priest,Durotar
+33,Guild Guild 6,Undead,Priest,The Barrens
+34,Guild Guild 24,Undead,Warlock,The Barrens
+35,Guild Guild 8,Undead,Warrior,Thunder Bluff
+46,Guild Guild 5,Undead,Mage,Dustwallow Marsh
+42,Guild Guild 19,Undead,Mage,Swamp of Sorrows
+54,Guild Guild 10,Undead,Rogue,Orgrimmar
+55,Guild Guild 4,Undead,Warrior,Durotar
+56,Guild Guild 15,Undead,Mage,Durotar
+57,Guild Guild 19,Undead,Priest,Blackrock Depths
+58,Guild Guild 5,Undead,Priest,Felwood
+60,Guild Guild 17,Undead,Priest,Durotar
+60,Guild Guild 31,Undead,Warlock,Tanaris
+60,Guild Guild 10,Undead,Warlock,Orgrimmar
+7,Guild Guild -1,Orc,Warrior,Durotar
+12,Guild Guild -1,Orc,Hunter,Undercity
+15,Guild Guild -1,Orc,Shaman,Durotar
+17,Guild Guild -1,Orc,Hunter,The Barrens
+23,Guild Guild -1,Orc,Shaman,Mulgore
+23,Guild Guild -1,Orc,Hunter,The Barrens
+35,Guild Guild 34,Orc,Hunter,Desolace
+33,Guild Guild 3,Orc,Warrior,The Barrens
+41,Guild Guild 16,Orc,Shaman,Stranglethorn Vale
+41,Guild Guild 6,Orc,Shaman,The Barrens
+51,Guild Guild 7,Orc,Hunter,Azshara
+57,Guild Guild 13,Orc,Hunter,Felwood
+60,Guild Guild 18,Orc,Warrior,Winterspring
+60,Guild Guild -1,Orc,Hunter,Winterspring
+60,Guild Guild 17,Orc,Warrior,Undercity
+60,Guild Guild 4,Orc,Warrior,Undercity
+6,Guild Guild -1,Tauren,Shaman,Mulgore
+20,Guild Guild -1,Tauren,Hunter,Orgrimmar
+17,Guild Guild -1,Tauren,Druid,Undercity
+18,Guild Guild -1,Tauren,Warrior,Durotar
+11,Guild Guild 21,Tauren,Druid,Thunder Bluff
+40,Guild Guild 19,Tauren,Warrior,Thunder Bluff
+46,Guild Guild 18,Tauren,Druid,Orgrimmar
+47,Guild Guild 5,Tauren,Druid,Orgrimmar
+49,Guild Guild 17,Tauren,Druid,Orgrimmar
+42,Guild Guild 2,Tauren,Shaman,Durotar
+42,Guild Guild 38,Tauren,Shaman,Stranglethorn Vale
+49,Guild Guild -1,Tauren,Druid,Mulgore
+46,Guild Guild 7,Tauren,Shaman,Arathi Highlands
+53,Guild Guild 6,Tauren,Druid,Winterspring
+52,Guild Guild 3,Tauren,Warrior,Tanaris
+57,Guild Guild 28,Tauren,Hunter,Orgrimmar
+59,Guild Guild 12,Tauren,Shaman,Winterspring
+59,Guild Guild 17,Tauren,Druid,Eastern Plaguelands
+59,Guild Guild 4,Tauren,Shaman,Burning Steppes
+60,Guild Guild 4,Tauren,Druid,Eastern Plaguelands
+5,Guild Guild -1,Troll,Shaman,Orgrimmar
+12,Guild Guild 10,Troll,Rogue,Durotar
+12,Guild Guild -1,Troll,Shaman,Durotar
+20,Guild Guild -1,Troll,Rogue,Mulgore
+27,Guild Guild 34,Troll,Hunter,Ashenvale
+29,Guild Guild 9,Troll,Rogue,The Barrens
+36,Guild Guild 2,Troll,Shaman,Hillsbrad Foothills
+50,Guild Guild -1,Troll,Rogue,Winterspring
+46,Guild Guild 25,Troll,Hunter,Arathi Highlands
+52,Guild Guild -1,Troll,Hunter,Orgrimmar
+52,Guild Guild 17,Troll,Shaman,Orgrimmar
+53,Guild Guild 5,Troll,Priest,Silithus
+51,Guild Guild 5,Troll,Shaman,Tirisfal Glades
+53,Guild Guild 7,Troll,Mage,Tirisfal Glades
+56,Guild Guild 19,Troll,Hunter,Western Plaguelands
+60,Guild Guild -1,Troll,Mage,Eastern Plaguelands
+60,Guild Guild 4,Troll,Hunter,Western Plaguelands
+8,Guild Guild -1,Undead,Warlock,Tirisfal Glades
+19,Guild Guild 6,Undead,Mage,Hillsbrad Foothills
+14,Guild Guild 21,Undead,Rogue,Undercity
+11,Guild Guild -1,Undead,Priest,The Barrens
+21,Guild Guild -1,Undead,Warrior,Silverpine Forest
+27,Guild Guild 3,Undead,Mage,Ashenvale
+26,Guild Guild -1,Undead,Mage,The Barrens
+26,Guild Guild 8,Undead,Priest,Silverpine Forest
+38,Guild Guild 34,Undead,Warlock,Undercity
+34,Guild Guild 24,Undead,Warlock,Stranglethorn Vale
+35,Guild Guild 8,Undead,Warrior,The Barrens
+43,Guild Guild 37,Undead,Warlock,Orgrimmar
+44,Guild Guild 2,Undead,Mage,Orgrimmar
+50,Guild Guild 5,Undead,Warrior,Orgrimmar
+50,Guild Guild 19,Undead,Rogue,Orgrimmar
+44,Guild Guild 3,Undead,Mage,Deadwind Pass
+51,Guild Guild 6,Undead,Mage,The Hinterlands
+55,Guild Guild 4,Undead,Warrior,Arathi Highlands
+60,Guild Guild 2,Undead,Mage,Winterspring
+60,Guild Guild 15,Undead,Mage,Orgrimmar
+60,Guild Guild 4,Undead,Mage,Undercity
+60,Guild Guild 15,Undead,Priest,Orgrimmar
+60,Guild Guild 17,Undead,Priest,Undercity
+60,Guild Guild 20,Undead,Rogue,Orgrimmar
+60,Guild Guild 31,Undead,Warlock,Silithus
+60,Guild Guild 10,Undead,Warlock,Ashenvale
+10,Guild Guild -1,Orc,Shaman,Durotar
+13,Guild Guild -1,Orc,Shaman,Orgrimmar
+34,Guild Guild -1,Orc,Rogue,Orgrimmar
+35,Guild Guild 13,Orc,Hunter,Durotar
+33,Guild Guild 3,Orc,Warrior,Ashenvale
+39,Guild Guild 8,Orc,Warlock,未知
+54,Guild Guild -1,Orc,Hunter,Orgrimmar
+55,Guild Guild 5,Orc,Warrior,Un'Goro Crater
+57,Guild Guild 7,Orc,Hunter,Western Plaguelands
+56,Guild Guild 2,Orc,Warrior,The Barrens
+57,Guild Guild 5,Orc,Hunter,The Barrens
+56,Guild Guild 15,Orc,Warrior,Felwood
+60,Guild Guild 17,Orc,Warrior,Eastern Plaguelands
+60,Guild Guild 4,Orc,Warrior,Eastern Plaguelands
+60,Guild Guild 4,Orc,Warrior,Feralas
+60,Guild Guild 18,Orc,Hunter,The Barrens
+1,Guild Guild -1,Tauren,Shaman,Mulgore
+2,Guild Guild -1,Tauren,Druid,Mulgore
+7,Guild Guild -1,Tauren,Shaman,Mulgore
+18,Guild Guild -1,Tauren,Shaman,Orgrimmar
+12,Guild Guild -1,Tauren,Hunter,The Barrens
+16,Guild Guild 2,Tauren,Druid,The Barrens
+17,Guild Guild -1,Tauren,Druid,Silverpine Forest
+20,Guild Guild -1,Tauren,Hunter,Silverpine Forest
+12,Guild Guild 21,Tauren,Druid,Thunder Bluff
+29,Guild Guild 2,Tauren,Druid,Ashenvale
+40,Guild Guild 19,Tauren,Warrior,Thousand Needles
+35,Guild Guild 20,Tauren,Shaman,Maraudon
+32,Guild Guild 24,Tauren,Shaman,Gnomeregan
+35,Guild Guild 24,Tauren,Druid,Gnomeregan
+38,Guild Guild 4,Tauren,Druid,Arathi Highlands
+35,Guild Guild 2,Tauren,Hunter,Thunder Bluff
+49,Guild Guild -1,Tauren,Druid,Un'Goro Crater
+46,Guild Guild 18,Tauren,Druid,Stranglethorn Vale
+46,Guild Guild 19,Tauren,Druid,Thunder Bluff
+60,Guild Guild 4,Tauren,Hunter,Durotar
+60,Guild Guild 17,Tauren,Shaman,Orgrimmar
+60,Guild Guild 17,Tauren,Shaman,Azshara
+2,Guild Guild -1,Troll,Mage,Orgrimmar
+10,Guild Guild -1,Troll,Mage,Durotar
+12,Guild Guild 10,Troll,Rogue,Orgrimmar
+14,Guild Guild 30,Troll,Rogue,Orgrimmar
+17,Guild Guild 30,Troll,Shaman,The Barrens
+20,Guild Guild -1,Troll,Rogue,Thunder Bluff
+29,Guild Guild 9,Troll,Rogue,Wailing Caverns
+29,Guild Guild -1,Troll,Hunter,Orgrimmar
+30,Guild Guild 7,Troll,Priest,Hillsbrad Foothills
+28,Guild Guild 6,Troll,Hunter,Ashenvale
+37,Guild Guild 25,Troll,Mage,Dustwallow Marsh
+47,Guild Guild 6,Troll,Rogue,Orgrimmar
+50,Guild Guild 5,Troll,Mage,Durotar
+53,Guild Guild 3,Troll,Rogue,Tanaris
+53,Guild Guild 5,Troll,Priest,Orgrimmar
+52,Guild Guild 17,Troll,Shaman,Tirisfal Glades
+51,Guild Guild 2,Troll,Rogue,Stranglethorn Vale
+53,Guild Guild 7,Troll,Mage,Western Plaguelands
+51,Guild Guild 5,Troll,Shaman,Felwood
+60,Guild Guild 6,Troll,Hunter,Maraudon
+1,Guild Guild -1,Undead,Warlock,Tirisfal Glades
+3,Guild Guild -1,Undead,Priest,Tirisfal Glades
+21,Guild Guild -1,Undead,Warlock,Tirisfal Glades
+22,Guild Guild 1,Undead,Mage,Mulgore
+26,Guild Guild -1,Undead,Mage,Orgrimmar
+26,Guild Guild 8,Undead,Priest,Undercity
+36,Guild Guild 7,Undead,Warlock,Hillsbrad Foothills
+40,Guild Guild 25,Undead,Mage,Swamp of Sorrows
+35,Guild Guild 8,Undead,Warrior,Ashenvale
+33,Guild Guild 24,Undead,Priest,Gnomeregan
+34,Guild Guild 24,Undead,Warlock,Gnomeregan
+50,Guild Guild -1,Undead,Warlock,Tanaris
+43,Guild Guild -1,Undead,Warlock,Orgrimmar
+44,Guild Guild 3,Undead,Mage,Undercity
+50,Guild Guild 19,Undead,Rogue,Tirisfal Glades
+44,Guild Guild 2,Undead,Mage,Durotar
+42,Guild Guild 19,Undead,Mage,Stranglethorn Vale
+42,Guild Guild 19,Undead,Priest,Stranglethorn Vale
+44,Guild Guild 13,Undead,Priest,Scarlet Monastery
+45,Guild Guild 24,Undead,Rogue,Gnomeregan
+54,Guild Guild 4,Undead,Rogue,Orgrimmar
+53,Guild Guild 3,Undead,Mage,Undercity
+51,Guild Guild 6,Undead,Mage,The Barrens
+57,Guild Guild 5,Undead,Warlock,Duskwood
+58,Guild Guild 2,Undead,Mage,Orgrimmar
+60,Guild Guild 36,Undead,Mage,Orgrimmar
+60,Guild Guild 4,Undead,Mage,Hillsbrad Foothills
+60,Guild Guild 17,Undead,Priest,Eastern Plaguelands
+60,Guild Guild 20,Undead,Rogue,Arathi Basin
+60,Guild Guild 31,Undead,Warlock,Orgrimmar
+60,Guild Guild 10,Undead,Warlock,The Barrens
+32,Guild Guild 33,Orc,Warrior,Thousand Needles
+39,Guild Guild 8,Orc,Warlock,Dustwallow Marsh
+32,Guild Guild 6,Orc,Warlock,Orgrimmar
+42,Guild Guild 7,Orc,Warrior,Orgrimmar
+46,Guild Guild 15,Orc,Warrior,Durotar
+53,Guild Guild 3,Orc,Warrior,Winterspring
+56,Guild Guild 15,Orc,Warrior,Winterspring
+57,Guild Guild 13,Orc,Hunter,Winterspring
+57,Guild Guild 28,Orc,Hunter,Winterspring
+60,Guild Guild 4,Orc,Warrior,Winterspring
+60,Guild Guild 18,Orc,Warrior,Dustwallow Marsh
+2,Guild Guild -1,Tauren,Shaman,Mulgore
+14,Guild Guild 19,Tauren,Shaman,Durotar
+25,Guild Guild 7,Tauren,Druid,Orgrimmar
+29,Guild Guild 24,Tauren,Warrior,Ashenvale
+23,Guild Guild -1,Tauren,Druid,The Barrens
+24,Guild Guild -1,Tauren,Warrior,The Barrens
+26,Guild Guild 6,Tauren,Shaman,The Barrens
+40,Guild Guild 19,Tauren,Warrior,Feralas
+35,Guild Guild 2,Tauren,Hunter,The Barrens
+38,Guild Guild 19,Tauren,Druid,The Barrens
+31,Guild Guild 18,Tauren,Shaman,Arathi Highlands
+46,Guild Guild 31,Tauren,Shaman,Tanaris
+52,Guild Guild 5,Tauren,Shaman,Stranglethorn Vale
+55,Guild Guild 34,Tauren,Shaman,Western Plaguelands
+53,Guild Guild 7,Tauren,Warrior,Felwood
+60,Guild Guild 17,Tauren,Shaman,Undercity
+60,Guild Guild 17,Tauren,Shaman,Ashenvale
+60,Guild Guild 8,Tauren,Druid,Mulgore
+6,Guild Guild -1,Troll,Mage,Durotar
+10,Guild Guild -1,Troll,Shaman,The Barrens
+29,Guild Guild -1,Troll,Hunter,Undercity
+34,Guild Guild 6,Troll,Hunter,Orgrimmar
+44,Guild Guild 2,Troll,Shaman,Orgrimmar
+46,Guild Guild 22,Troll,Rogue,Undercity
+47,Guild Guild 6,Troll,Rogue,The Barrens
+53,Guild Guild 3,Troll,Rogue,Dustwallow Marsh
+53,Guild Guild 3,Troll,Warrior,Orgrimmar
+54,Guild Guild 5,Troll,Hunter,Orgrimmar
+53,Guild Guild 5,Troll,Priest,Stonetalon Mountains
+52,Guild Guild 17,Troll,Shaman,Western Plaguelands
+57,Guild Guild 28,Troll,Priest,Western Plaguelands
+57,Guild Guild -1,Troll,Hunter,Felwood
+60,Guild Guild 28,Troll,Mage,Western Plaguelands
+9,Guild Guild -1,Undead,Mage,Undercity
+1,Guild Guild -1,Undead,Warrior,Tirisfal Glades
+2,Guild Guild -1,Undead,Warlock,Tirisfal Glades
+21,Guild Guild -1,Undead,Warlock,Silverpine Forest
+27,Guild Guild 19,Undead,Priest,Thousand Needles
+26,Guild Guild 8,Undead,Priest,Durotar
+28,Guild Guild 19,Undead,Mage,Stonetalon Mountains
+44,Guild Guild 2,Undead,Mage,Tirisfal Glades
+50,Guild Guild 19,Undead,Rogue,Burning Steppes
+42,Guild Guild 33,Undead,Warrior,Stranglethorn Vale
+42,Guild Guild 19,Undead,Mage,Feralas
+42,Guild Guild 19,Undead,Priest,Feralas
+48,Guild Guild 16,Undead,Priest,Feralas
+44,Guild Guild 3,Undead,Mage,The Hinterlands
+51,Guild Guild 5,Undead,Priest,Un'Goro Crater
+53,Guild Guild 3,Undead,Mage,Silverpine Forest
+57,Guild Guild 5,Undead,Warlock,Searing Gorge
+58,Guild Guild -1,Undead,Priest,Western Plaguelands
+60,Guild Guild 4,Undead,Mage,Alterac Mountains
+60,Guild Guild 36,Undead,Mage,Felwood
+60,Guild Guild 10,Undead,Warlock,Thousand Needles
+17,Guild Guild -1,Orc,Hunter,Orgrimmar
+19,Guild Guild -1,Orc,Hunter,The Barrens
+29,Guild Guild 34,Orc,Hunter,Thousand Needles
+38,Guild Guild 6,Orc,Hunter,Orgrimmar
+41,Guild Guild 6,Orc,Shaman,Dustwallow Marsh
+42,Guild Guild 7,Orc,Warrior,Tirisfal Glades
+46,Guild Guild 15,Orc,Warrior,Redridge Mountains
+53,Guild Guild 6,Orc,Hunter,Orgrimmar
+54,Guild Guild -1,Orc,Hunter,Azshara
+56,Guild Guild 18,Orc,Rogue,Azshara
+56,Guild Guild 15,Orc,Warrior,The Hinterlands
+60,Guild Guild -1,Orc,Warrior,Orgrimmar
+60,Guild Guild 5,Orc,Warrior,Orgrimmar
+60,Guild Guild 18,Orc,Warrior,Durotar
+60,Guild Guild 4,Orc,Warrior,Western Plaguelands
+60,Guild Guild 2,Orc,Hunter,The Barrens
+3,Guild Guild -1,Tauren,Shaman,Mulgore
+14,Guild Guild 19,Tauren,Shaman,Orgrimmar
+12,Guild Guild 21,Tauren,Druid,Mulgore
+28,Guild Guild 21,Tauren,Warrior,Tirisfal Glades
+29,Guild Guild 24,Tauren,Warrior,Durotar
+30,Guild Guild 0,Tauren,Druid,Ashenvale
+22,Guild Guild -1,Tauren,Shaman,Stonetalon Mountains
+25,Guild Guild 21,Tauren,Warrior,The Barrens
+38,Guild Guild 19,Tauren,Druid,Tanaris
+35,Guild Guild 2,Tauren,Hunter,Orgrimmar
+45,Guild Guild 34,Tauren,Hunter,Silverpine Forest
+46,Guild Guild 19,Tauren,Druid,Arathi Highlands
+52,Guild Guild 15,Tauren,Druid,The Hinterlands
+60,Guild Guild 28,Tauren,Warrior,Orgrimmar
+60,Guild Guild 17,Tauren,Shaman,Eastern Plaguelands
+60,Guild Guild 4,Tauren,Druid,Western Plaguelands
+12,Guild Guild -1,Troll,Rogue,The Barrens
+14,Guild Guild -1,Troll,Hunter,The Barrens
+18,Guild Guild 16,Troll,Rogue,The Barrens
+29,Guild Guild -1,Troll,Hunter,Hillsbrad Foothills
+29,Guild Guild 9,Troll,Rogue,Stonetalon Mountains
+26,Guild Guild 30,Troll,Hunter,The Barrens
+31,Guild Guild 34,Troll,Hunter,Orgrimmar
+34,Guild Guild 6,Troll,Hunter,Undercity
+33,Guild Guild 21,Troll,Rogue,The Barrens
+44,Guild Guild 15,Troll,Shaman,The Barrens
+47,Guild Guild 6,Troll,Rogue,Tanaris
+46,Guild Guild 25,Troll,Hunter,Ashenvale
+50,Guild Guild 5,Troll,Mage,Thunder Bluff
+53,Guild Guild 3,Troll,Rogue,Felwood
+51,Guild Guild 2,Troll,Rogue,Thunder Bluff
+57,Guild Guild -1,Troll,Hunter,Tanaris
+57,Guild Guild 28,Troll,Priest,Undercity
+60,Guild Guild 19,Troll,Rogue,Orgrimmar
+60,Guild Guild 28,Troll,Mage,Undercity
+60,Guild Guild 28,Troll,Hunter,Undercity
+60,Guild Guild 4,Troll,Rogue,Western Plaguelands
+60,Guild Guild 15,Troll,Hunter,The Hinterlands
+3,Guild Guild -1,Undead,Warrior,Tirisfal Glades
+3,Guild Guild -1,Undead,Warlock,Tirisfal Glades
+4,Guild Guild -1,Undead,Priest,Tirisfal Glades
+9,Guild Guild -1,Undead,Mage,Tirisfal Glades
+16,Guild Guild -1,Undead,Warlock,Tirisfal Glades
+13,Guild Guild 12,Undead,Mage,Silverpine Forest
+23,Guild Guild 2,Undead,Priest,Orgrimmar
+21,Guild Guild -1,Undead,Warrior,Tirisfal Glades
+26,Guild Guild 8,Undead,Priest,Ashenvale
+33,Guild Guild 21,Undead,Mage,Thousand Needles
+36,Guild Guild 22,Undead,Mage,Orgrimmar
+40,Guild Guild 1,Undead,Priest,Orgrimmar
+34,Guild Guild 35,Undead,Priest,Undercity
+38,Guild Guild 6,Undead,Priest,Durotar
+38,Guild Guild 34,Undead,Warlock,Stranglethorn Vale
+36,Guild Guild 0,Undead,Rogue,Arathi Highlands
+41,Guild Guild 22,Undead,Priest,Stranglethorn Vale
+48,Guild Guild -1,Undead,Priest,Badlands
+48,Guild Guild -1,Undead,Rogue,Mulgore
+49,Guild Guild 19,Undead,Priest,The Hinterlands
+44,Guild Guild 2,Undead,Mage,Arathi Highlands
+44,Guild Guild 21,Undead,Warlock,Arathi Highlands
+50,Guild Guild 19,Undead,Rogue,Blackrock Mountain
+56,Guild Guild 19,Undead,Warrior,Blackrock Mountain
+58,Guild Guild -1,Undead,Priest,Undercity
+60,Guild Guild 20,Undead,Mage,Undercity
+60,Guild Guild 28,Undead,Mage,Undercity
+60,Guild Guild 28,Undead,Priest,Tirisfal Glades
+60,Guild Guild 20,Undead,Rogue,Undercity
+60,Guild Guild 18,Undead,Warlock,Silithus
+60,Guild Guild 20,Undead,Warlock,Undercity
+60,Guild Guild 10,Undead,Warlock,Undercity
+14,Guild Guild 30,Orc,Warlock,The Barrens
+26,Guild Guild -1,Orc,Hunter,Silverpine Forest
+27,Guild Guild 1,Orc,Hunter,Thunder Bluff
+40,Guild Guild 6,Orc,Shaman,Stranglethorn Vale
+31,Guild Guild -1,Orc,Rogue,The Barrens
+46,Guild Guild 18,Orc,Hunter,Orgrimmar
+48,Guild Guild 4,Orc,Warrior,Orgrimmar
+42,Guild Guild 7,Orc,Warrior,Hillsbrad Foothills
+46,Guild Guild 15,Orc,Warrior,Badlands
+54,Guild Guild -1,Orc,Hunter,Winterspring
+57,Guild Guild 7,Orc,Hunter,Tirisfal Glades
+60,Guild Guild 17,Orc,Warrior,Stratholme
+60,Guild Guild 4,Orc,Warrior,Felwood
+60,Guild Guild 2,Orc,Hunter,Thunder Bluff
+4,Guild Guild -1,Tauren,Shaman,Mulgore
+3,Guild Guild -1,Tauren,Warrior,Thunder Bluff
+12,Guild Guild -1,Tauren,Hunter,Durotar
+11,Guild Guild 7,Tauren,Druid,Mulgore
+15,Guild Guild 8,Tauren,Warrior,The Barrens
+29,Guild Guild 24,Tauren,Warrior,Tirisfal Glades
+28,Guild Guild 21,Tauren,Warrior,The Barrens
+30,Guild Guild 0,Tauren,Druid,The Barrens
+35,Guild Guild 20,Tauren,Shaman,Undercity
+31,Guild Guild 23,Tauren,Shaman,The Barrens
+32,Guild Guild 23,Tauren,Hunter,Thunder Bluff
+38,Guild Guild 19,Tauren,Druid,Thunder Bluff
+45,Guild Guild 34,Tauren,Hunter,Undercity
+46,Guild Guild 19,Tauren,Druid,Badlands
+59,Guild Guild 2,Tauren,Shaman,Orgrimmar
+59,Guild Guild 17,Tauren,Druid,Stratholme
+60,Guild Guild 17,Tauren,Warrior,Stratholme
+60,Guild Guild 17,Tauren,Hunter,Stratholme
+60,Guild Guild 17,Tauren,Shaman,Stratholme
+60,Guild Guild 19,Tauren,Druid,Undercity
+60,Guild Guild 1,Tauren,Druid,Tirisfal Glades
+6,Guild Guild -1,Troll,Shaman,Durotar
+7,Guild Guild -1,Troll,Shaman,Durotar
+20,Guild Guild -1,Troll,Rogue,Ashenvale
+12,Guild Guild 10,Troll,Rogue,The Barrens
+35,Guild Guild 2,Troll,Mage,Thousand Needles
+38,Guild Guild 6,Troll,Mage,Orgrimmar
+34,Guild Guild 6,Troll,Hunter,Hillsbrad Foothills
+46,Guild Guild 25,Troll,Hunter,Felwood
+51,Guild Guild 2,Troll,Rogue,Orgrimmar
+57,Guild Guild 28,Troll,Priest,Orgrimmar
+59,Guild Guild 10,Troll,Priest,Thousand Needles
+59,Guild Guild 34,Troll,Rogue,Swamp of Sorrows
+60,Guild Guild 28,Troll,Mage,Orgrimmar
+60,Guild Guild 17,Troll,Priest,Orgrimmar
+60,Guild Guild -1,Troll,Mage,Stratholme
+60,Guild Guild 17,Troll,Rogue,Stratholme
+60,Guild Guild 19,Troll,Rogue,Durotar
+60,Guild Guild 28,Troll,Hunter,Western Plaguelands
+10,Guild Guild -1,Undead,Mage,Tirisfal Glades
+13,Guild Guild 12,Undead,Mage,Undercity
+21,Guild Guild -1,Undead,Warrior,Undercity
+23,Guild Guild 2,Undead,Priest,The Barrens
+27,Guild Guild 3,Undead,Mage,Orgrimmar
+29,Guild Guild -1,Undead,Priest,Orgrimmar
+26,Guild Guild 2,Undead,Warrior,Stonetalon Mountains
+36,Guild Guild 0,Undead,Rogue,Undercity
+34,Guild Guild 35,Undead,Priest,Tirisfal Glades
+38,Guild Guild 6,Undead,Priest,Stranglethorn Vale
+33,Guild Guild -1,Undead,Warlock,The Barrens
+34,Guild Guild -1,Undead,Warrior,The Barrens
+44,Guild Guild 3,Undead,Mage,Orgrimmar
+48,Guild Guild -1,Undead,Rogue,Orgrimmar
+44,Guild Guild 8,Undead,Warrior,Desolace
+48,Guild Guild 16,Undead,Priest,The Barrens
+53,Guild Guild 3,Undead,Mage,The Hinterlands
+58,Guild Guild 4,Undead,Warrior,Orgrimmar
+60,Guild Guild 20,Undead,Mage,Tirisfal Glades
+60,Guild Guild 4,Undead,Mage,Tirisfal Glades
+60,Guild Guild 28,Undead,Mage,Western Plaguelands
+60,Guild Guild 17,Undead,Priest,Stratholme
+60,Guild Guild 28,Undead,Priest,Western Plaguelands
+60,Guild Guild 17,Undead,Rogue,Orgrimmar
+60,Guild Guild 20,Undead,Rogue,Tirisfal Glades
+60,Guild Guild 3,Undead,Warlock,Orgrimmar
+60,Guild Guild 1,Undead,Warlock,Orgrimmar
+60,Guild Guild 20,Undead,Warlock,Tirisfal Glades
+26,Guild Guild -1,Orc,Shaman,Dustwallow Marsh
+31,Guild Guild -1,Orc,Rogue,Orgrimmar
+40,Guild Guild 5,Orc,Hunter,Orgrimmar
+32,Guild Guild 33,Orc,Warrior,The Barrens
+42,Guild Guild 11,Orc,Shaman,Tanaris
+45,Guild Guild 11,Orc,Hunter,Tanaris
+42,Guild Guild 7,Orc,Warrior,Alterac Mountains
+46,Guild Guild 18,Orc,Hunter,Durotar
+48,Guild Guild 4,Orc,Warrior,The Barrens
+60,Guild Guild -1,Orc,Warrior,Duskwood
+5,Guild Guild -1,Tauren,Shaman,Mulgore
+12,Guild Guild -1,Tauren,Hunter,Orgrimmar
+16,Guild Guild -1,Tauren,Druid,Orgrimmar
+19,Guild Guild 34,Tauren,Hunter,The Barrens
+17,Guild Guild -1,Tauren,Druid,Thunder Bluff
+25,Guild Guild 21,Tauren,Warrior,Razorfen Kraul
+28,Guild Guild 21,Tauren,Warrior,Razorfen Kraul
+27,Guild Guild -1,Tauren,Warrior,Stonetalon Mountains
+29,Guild Guild 24,Tauren,Warrior,Gnomeregan
+21,Guild Guild 28,Tauren,Hunter,The Barrens
+21,Guild Guild 18,Tauren,Shaman,Thunder Bluff
+30,Guild Guild 0,Tauren,Druid,Thunder Bluff
+35,Guild Guild 2,Tauren,Hunter,Tanaris
+31,Guild Guild 23,Tauren,Shaman,Ashenvale
+38,Guild Guild 19,Tauren,Druid,Desolace
+35,Guild Guild 20,Tauren,Shaman,Scarlet Monastery
+31,Guild Guild 2,Tauren,Shaman,The Barrens
+32,Guild Guild 23,Tauren,Hunter,The Barrens
+44,Guild Guild 11,Tauren,Warrior,Tanaris
+45,Guild Guild 34,Tauren,Hunter,Tirisfal Glades
+50,Guild Guild 0,Tauren,Hunter,Wetlands
+43,Guild Guild -1,Tauren,Warrior,Stranglethorn Vale
+42,Guild Guild 6,Tauren,Hunter,The Barrens
+55,Guild Guild 34,Tauren,Shaman,Mulgore
+59,Guild Guild 2,Tauren,Shaman,Tanaris
+58,Guild Guild 3,Tauren,Warrior,Orgrimmar
+60,Guild Guild 1,Tauren,Warrior,Western Plaguelands
+60,Guild Guild 1,Tauren,Druid,Western Plaguelands
+60,Guild Guild 4,Tauren,Druid,Thunder Bluff
+2,Guild Guild -1,Troll,Shaman,Orgrimmar
+12,Guild Guild -1,Troll,Shaman,Orgrimmar
+26,Guild Guild 21,Troll,Rogue,Stonetalon Mountains
+27,Guild Guild 30,Troll,Hunter,The Barrens
+29,Guild Guild -1,Troll,Hunter,Arathi Highlands
+33,Guild Guild 21,Troll,Rogue,Razorfen Kraul
+38,Guild Guild 6,Troll,Mage,Durotar
+43,Guild Guild 5,Troll,Shaman,Burning Steppes
+46,Guild Guild 25,Troll,Hunter,Winterspring
+48,Guild Guild -1,Troll,Shaman,Feralas
+46,Guild Guild 22,Troll,Rogue,Western Plaguelands
+55,Guild Guild 2,Troll,Hunter,Winterspring
+52,Guild Guild -1,Troll,Hunter,Ragefire Chasm
+53,Guild Guild 3,Troll,Warrior,Azshara
+57,Guild Guild 35,Troll,Mage,Orgrimmar
+59,Guild Guild 10,Troll,Priest,Tanaris
+59,Guild Guild 34,Troll,Rogue,Blasted Lands
+60,Guild Guild 28,Troll,Hunter,Silverpine Forest
+4,Guild Guild -1,Undead,Warlock,Tirisfal Glades
+13,Guild Guild 12,Undead,Mage,Tirisfal Glades
+16,Guild Guild -1,Undead,Mage,Tirisfal Glades
+23,Guild Guild 2,Undead,Priest,Thousand Needles
+21,Guild Guild -1,Undead,Warrior,Durotar
+27,Guild Guild 3,Undead,Mage,Mulgore
+33,Guild Guild 21,Undead,Mage,Razorfen Kraul
+36,Guild Guild 0,Undead,Rogue,Orgrimmar
+36,Guild Guild 15,Undead,Warlock,Stranglethorn Vale
+39,Guild Guild 34,Undead,Warlock,Stranglethorn Vale
+34,Guild Guild 35,Undead,Priest,Scarlet Monastery
+33,Guild Guild -1,Undead,Warlock,Thunder Bluff
+34,Guild Guild -1,Undead,Warrior,Thunder Bluff
+42,Guild Guild 11,Undead,Mage,Tanaris
+47,Guild Guild 16,Undead,Mage,Orgrimmar
+48,Guild Guild 16,Undead,Priest,Orgrimmar
+44,Guild Guild 2,Undead,Mage,Hillsbrad Foothills
+46,Guild Guild 12,Undead,Priest,Duskwood
+48,Guild Guild -1,Undead,Rogue,Durotar
+45,Guild Guild 8,Undead,Mage,Felwood
+50,Guild Guild 19,Undead,Rogue,Blackrock Depths
+54,Guild Guild 20,Undead,Warlock,Felwood
+56,Guild Guild 8,Undead,Priest,Orgrimmar
+58,Guild Guild -1,Undead,Priest,Silithus
+60,Guild Guild 20,Undead,Mage,Scarlet Monastery
+60,Guild Guild 1,Undead,Priest,Tirisfal Glades
+60,Guild Guild 15,Undead,Rogue,Azshara
+60,Guild Guild 20,Undead,Rogue,Scarlet Monastery
+60,Guild Guild 3,Undead,Warlock,Azshara
+60,Guild Guild 20,Undead,Warlock,Scarlet Monastery
+60,Guild Guild 1,Undead,Warlock,Western Plaguelands
+7,Guild Guild 33,Orc,Warrior,Orgrimmar
+19,Guild Guild 16,Orc,Hunter,Orgrimmar
+24,Guild Guild -1,Orc,Hunter,Orgrimmar
+27,Guild Guild 5,Orc,Warrior,Ashenvale
+24,Guild Guild -1,Orc,Hunter,Thunder Bluff
+31,Guild Guild -1,Orc,Rogue,Tirisfal Glades
+39,Guild Guild 7,Orc,Hunter,Badlands
+39,Guild Guild 8,Orc,Warlock,The Barrens
+48,Guild Guild 4,Orc,Warrior,Un'Goro Crater
+52,Guild Guild 8,Orc,Warrior,Blasted Lands
+60,Guild Guild 7,Orc,Hunter,Undercity
+60,Guild Guild -1,Orc,Warrior,Burning Steppes
+60,Guild Guild 4,Orc,Warrior,Scarlet Monastery
+8,Guild Guild -1,Tauren,Shaman,Mulgore
+15,Guild Guild 2,Tauren,Shaman,The Barrens
+11,Guild Guild 7,Tauren,Druid,Thunder Bluff
+21,Guild Guild 28,Tauren,Hunter,Durotar
+30,Guild Guild 0,Tauren,Druid,Mulgore
+22,Guild Guild -1,Tauren,Shaman,The Barrens
+38,Guild Guild 4,Tauren,Druid,Hillsbrad Foothills
+32,Guild Guild 23,Tauren,Hunter,Ashenvale
+37,Guild Guild -1,Tauren,Warrior,Wetlands
+50,Guild Guild 0,Tauren,Hunter,Orgrimmar
+55,Guild Guild 34,Tauren,Shaman,Desolace
+59,Guild Guild 2,Tauren,Shaman,Silithus
+60,Guild Guild 10,Tauren,Warrior,Durotar
+60,Guild Guild 19,Tauren,Hunter,Orgrimmar
+60,Guild Guild 4,Tauren,Shaman,Orgrimmar
+60,Guild Guild 4,Tauren,Druid,Feralas
+60,Guild Guild 4,Tauren,Druid,Arathi Basin
+60,Guild Guild 6,Tauren,Druid,Arathi Basin
+10,Guild Guild -1,Troll,Shaman,Orgrimmar
+7,Guild Guild -1,Troll,Mage,Durotar
+12,Guild Guild -1,Troll,Shaman,The Barrens
+27,Guild Guild 11,Troll,Rogue,The Barrens
+25,Guild Guild -1,Troll,Mage,Silverpine Forest
+40,Guild Guild 10,Troll,Hunter,Orgrimmar
+34,Guild Guild 6,Troll,Hunter,Alterac Mountains
+38,Guild Guild 6,Troll,Mage,Scarlet Monastery
+44,Guild Guild 15,Troll,Shaman,Thunder Bluff
+46,Guild Guild 22,Troll,Rogue,The Hinterlands
+51,Guild Guild 2,Troll,Rogue,Durotar
+59,Guild Guild 34,Troll,Rogue,Orgrimmar
+59,Guild Guild 10,Troll,Priest,Un'Goro Crater
+60,Guild Guild 8,Troll,Rogue,Orgrimmar
+60,Guild Guild -1,Troll,Shaman,Orgrimmar
+60,Guild Guild 28,Troll,Hunter,Shadowfang Keep
+60,Guild Guild 28,Troll,Mage,Durotar
+60,Guild Guild 6,Troll,Rogue,Arathi Basin
+19,Guild Guild 6,Undead,Mage,Undercity
+21,Guild Guild -1,Undead,Warrior,The Barrens
+27,Guild Guild 3,Undead,Mage,Tirisfal Glades
+26,Guild Guild -1,Undead,Warrior,Stonetalon Mountains
+29,Guild Guild -1,Undead,Priest,Stonetalon Mountains
+26,Guild Guild 8,Undead,Priest,Blackfathom Deeps
+36,Guild Guild 0,Undead,Rogue,The Barrens
+35,Guild Guild 8,Undead,Warrior,Blackfathom Deeps
+50,Guild Guild 5,Undead,Warrior,Tanaris
+48,Guild Guild -1,Undead,Rogue,Wetlands
+46,Guild Guild 12,Undead,Priest,Stranglethorn Vale
+46,Guild Guild 7,Undead,Priest,Stranglethorn Vale
+44,Guild Guild 2,Undead,Mage,Western Plaguelands
+51,Guild Guild 6,Undead,Mage,Orgrimmar
+54,Guild Guild 20,Undead,Warlock,Orgrimmar
+53,Guild Guild 0,Undead,Rogue,Azshara
+59,Guild Guild 4,Undead,Warlock,Orgrimmar
+60,Guild Guild 4,Undead,Mage,Dire Maul
+60,Guild Guild 6,Undead,Mage,Arathi Basin
+60,Guild Guild 5,Undead,Priest,Orgrimmar
+60,Guild Guild 1,Undead,Priest,Western Plaguelands
+60,Guild Guild 15,Undead,Rogue,Winterspring
+18,Guild Guild -1,Orc,Hunter,Silverpine Forest
+14,Guild Guild 14,Orc,Hunter,Thunder Bluff
+14,Guild Guild 30,Orc,Warlock,Thunder Bluff
+27,Guild Guild -1,Orc,Shaman,Orgrimmar
+26,Guild Guild -1,Orc,Hunter,Hillsbrad Foothills
+24,Guild Guild -1,Orc,Hunter,Durotar
+31,Guild Guild -1,Orc,Rogue,Hillsbrad Foothills
+39,Guild Guild 8,Orc,Warlock,Stranglethorn Vale
+32,Guild Guild 33,Orc,Warrior,Mulgore
+32,Guild Guild 6,Orc,Warlock,The Barrens
+57,Guild Guild 13,Orc,Hunter,Orgrimmar
+57,Guild Guild 28,Orc,Hunter,The Barrens
+60,Guild Guild -1,Orc,Warrior,Searing Gorge
+60,Guild Guild 19,Orc,Hunter,Searing Gorge
+20,Guild Guild 12,Tauren,Shaman,Mulgore
+26,Guild Guild 6,Tauren,Shaman,Orgrimmar
+21,Guild Guild 28,Tauren,Hunter,Tirisfal Glades
+31,Guild Guild 14,Tauren,Hunter,Thousand Needles
+38,Guild Guild 2,Tauren,Hunter,Alterac Mountains
+50,Guild Guild 0,Tauren,Hunter,Tanaris
+42,Guild Guild 26,Tauren,Shaman,The Barrens
+56,Guild Guild 25,Tauren,Shaman,Orgrimmar
+58,Guild Guild 3,Tauren,Warrior,Durotar
+59,Guild Guild 4,Tauren,Shaman,Badlands
+60,Guild Guild 5,Tauren,Hunter,Arathi Basin
+60,Guild Guild 20,Tauren,Shaman,Orgrimmar
+60,Guild Guild 4,Tauren,Shaman,Durotar
+60,Guild Guild 5,Tauren,Druid,Searing Gorge
+1,Guild Guild 39,Troll,Mage,Orgrimmar
+7,Guild Guild -1,Troll,Shaman,Orgrimmar
+8,Guild Guild -1,Troll,Shaman,Durotar
+14,Guild Guild -1,Troll,Rogue,Orgrimmar
+13,Guild Guild -1,Troll,Rogue,The Barrens
+14,Guild Guild 30,Troll,Rogue,Thunder Bluff
+21,Guild Guild 39,Troll,Hunter,Orgrimmar
+27,Guild Guild 21,Troll,Rogue,Stonetalon Mountains
+53,Guild Guild 3,Troll,Rogue,Winterspring
+51,Guild Guild 2,Troll,Rogue,Badlands
+56,Guild Guild 2,Troll,Hunter,Winterspring
+60,Guild Guild 8,Troll,Rogue,Duskwood
+60,Guild Guild 4,Troll,Mage,Searing Gorge
+60,Guild Guild 4,Troll,Shaman,The Barrens
+19,Guild Guild 7,Undead,Mage,Tirisfal Glades
+22,Guild Guild 19,Undead,Warlock,Hillsbrad Foothills
+25,Guild Guild 20,Undead,Mage,Silverpine Forest
+28,Guild Guild 3,Undead,Mage,Hillsbrad Foothills
+27,Guild Guild -1,Undead,Mage,Stonetalon Mountains
+28,Guild Guild 2,Undead,Priest,Stonetalon Mountains
+29,Guild Guild -1,Undead,Priest,The Barrens
+34,Guild Guild -1,Undead,Warrior,Orgrimmar
+36,Guild Guild 15,Undead,Warlock,Durotar
+34,Guild Guild 6,Undead,Priest,Desolace
+36,Guild Guild 0,Undead,Rogue,Desolace
+43,Guild Guild 3,Undead,Rogue,Orgrimmar
+46,Guild Guild 7,Undead,Priest,Undercity
+50,Guild Guild 19,Undead,Rogue,Searing Gorge
+48,Guild Guild -1,Undead,Rogue,Badlands
+47,Guild Guild 16,Undead,Mage,Thunder Bluff
+53,Guild Guild 3,Undead,Mage,Western Plaguelands
+57,Guild Guild 26,Undead,Mage,Eastern Plaguelands
+56,Guild Guild 19,Undead,Warrior,Searing Gorge
+57,Guild Guild 19,Undead,Priest,Searing Gorge
+60,Guild Guild 5,Undead,Mage,Orgrimmar
+60,Guild Guild 4,Undead,Mage,Feralas
+60,Guild Guild 4,Undead,Rogue,Searing Gorge
+60,Guild Guild 5,Undead,Warlock,Orgrimmar
+60,Guild Guild 6,Undead,Warlock,Durotar
+60,Guild Guild 5,Undead,Warrior,Searing Gorge
+27,Guild Guild 1,Orc,Hunter,Thousand Needles
+27,Guild Guild -1,Orc,Shaman,Durotar
+28,Guild Guild 5,Orc,Warrior,Ashenvale
+24,Guild Guild -1,Orc,Hunter,Silverpine Forest
+38,Guild Guild 6,Orc,Hunter,Tanaris
+32,Guild Guild 33,Orc,Warrior,Stonetalon Mountains
+35,Guild Guild 7,Orc,Hunter,Thunder Bluff
+57,Guild Guild 3,Orc,Rogue,Searing Gorge
+60,Guild Guild 7,Orc,Hunter,Winterspring
+60,Guild Guild 5,Orc,Hunter,Orgrimmar
+60,Guild Guild 19,Orc,Hunter,Arathi Highlands
+3,Guild Guild -1,Tauren,Druid,Mulgore
+19,Guild Guild 34,Tauren,Hunter,Ashenvale
+13,Guild Guild 7,Tauren,Shaman,The Barrens
+20,Guild Guild 12,Tauren,Shaman,Thunder Bluff
+21,Guild Guild 28,Tauren,Hunter,Silverpine Forest
+22,Guild Guild -1,Tauren,Shaman,Thunder Bluff
+39,Guild Guild -1,Tauren,Druid,Orgrimmar
+38,Guild Guild 4,Tauren,Druid,Alterac Mountains
+31,Guild Guild 2,Tauren,Shaman,Stonetalon Mountains
+42,Guild Guild 26,Tauren,Shaman,Thousand Needles
+43,Guild Guild -1,Tauren,Warrior,Tirisfal Glades
+45,Guild Guild 34,Tauren,Hunter,Western Plaguelands
+59,Guild Guild 4,Tauren,Shaman,Thunder Bluff
+60,Guild Guild 7,Tauren,Warrior,Tirisfal Glades
+60,Guild Guild -1,Tauren,Hunter,Winterspring
+60,Guild Guild 4,Tauren,Shaman,Badlands
+60,Guild Guild 3,Tauren,Shaman,Blackrock Mountain
+60,Guild Guild 5,Tauren,Druid,Orgrimmar
+60,Guild Guild 1,Tauren,Druid,The Barrens
+11,Guild Guild -1,Troll,Mage,Durotar
+13,Guild Guild 6,Troll,Priest,Durotar
+17,Guild Guild -1,Troll,Mage,The Barrens
+23,Guild Guild 4,Troll,Shaman,Orgrimmar
+30,Guild Guild 9,Troll,Rogue,Stonetalon Mountains
+48,Guild Guild 6,Troll,Rogue,Orgrimmar
+54,Guild Guild 25,Troll,Rogue,Orgrimmar
+52,Guild Guild 17,Troll,Shaman,Hillsbrad Foothills
+57,Guild Guild 3,Troll,Warrior,Blackrock Mountain
+57,Guild Guild 3,Troll,Priest,Blackrock Mountain
+59,Guild Guild 34,Troll,Rogue,Durotar
+58,Guild Guild 3,Troll,Mage,Blackrock Mountain
+60,Guild Guild 7,Troll,Hunter,Orgrimmar
+60,Guild Guild 4,Troll,Shaman,Feralas
+60,Guild Guild 5,Troll,Rogue,Scholomance
+16,Guild Guild 30,Undead,Warlock,Orgrimmar
+11,Guild Guild -1,Undead,Mage,Tirisfal Glades
+16,Guild Guild -1,Undead,Mage,Silverpine Forest
+23,Guild Guild 19,Undead,Warlock,Hillsbrad Foothills
+25,Guild Guild 20,Undead,Mage,Shadowfang Keep
+22,Guild Guild -1,Undead,Priest,The Barrens
+22,Guild Guild -1,Undead,Rogue,The Barrens
+29,Guild Guild 29,Undead,Rogue,Ashenvale
+36,Guild Guild 15,Undead,Warlock,Orgrimmar
+36,Guild Guild 8,Undead,Priest,Durotar
+36,Guild Guild 8,Undead,Rogue,Durotar
+34,Guild Guild 2,Undead,Priest,Stranglethorn Vale
+36,Guild Guild 7,Undead,Warlock,The Barrens
+45,Guild Guild 8,Undead,Mage,Moonglade
+47,Guild Guild 16,Undead,Mage,Desolace
+44,Guild Guild 8,Undead,Warrior,Thunder Bluff
+53,Guild Guild 3,Undead,Mage,Tirisfal Glades
+57,Guild Guild 5,Undead,Warlock,Stonetalon Mountains
+56,Guild Guild 19,Undead,Warrior,Badlands
+57,Guild Guild 19,Undead,Priest,Badlands
+59,Guild Guild 4,Undead,Warlock,Alterac Mountains
+60,Guild Guild 37,Undead,Mage,Orgrimmar
+60,Guild Guild 7,Undead,Priest,Tirisfal Glades
+60,Guild Guild 6,Undead,Warlock,Burning Steppes
+10,Guild Guild -1,Orc,Shaman,Orgrimmar
+3,Guild Guild -1,Orc,Hunter,Durotar
+15,Guild Guild -1,Orc,Shaman,Orgrimmar
+15,Guild Guild 14,Orc,Hunter,Mulgore
+24,Guild Guild -1,Orc,Hunter,Shadowfang Keep
+27,Guild Guild -1,Orc,Shaman,The Barrens
+38,Guild Guild 6,Orc,Hunter,Thousand Needles
+46,Guild Guild 15,Orc,Warrior,Orgrimmar
+45,Guild Guild 31,Orc,Hunter,Thunder Bluff
+52,Guild Guild 8,Orc,Warrior,Swamp of Sorrows
+56,Guild Guild 14,Orc,Warrior,Undercity
+60,Guild Guild 7,Orc,Hunter,Ashenvale
+60,Guild Guild -1,Orc,Hunter,Arathi Highlands
+20,Guild Guild 34,Tauren,Hunter,Ashenvale
+15,Guild Guild 19,Tauren,Shaman,The Barrens
+21,Guild Guild 28,Tauren,Hunter,Shadowfang Keep
+40,Guild Guild -1,Tauren,Shaman,Orgrimmar
+35,Guild Guild 8,Tauren,Warrior,Stranglethorn Vale
+42,Guild Guild 26,Tauren,Shaman,Tanaris
+50,Guild Guild 3,Tauren,Warrior,Tanaris
+50,Guild Guild 0,Tauren,Hunter,Un'Goro Crater
+43,Guild Guild -1,Tauren,Warrior,Arathi Highlands
+56,Guild Guild 1,Tauren,Hunter,Tirisfal Glades
+59,Guild Guild 4,Tauren,Shaman,Mulgore
+60,Guild Guild 1,Tauren,Warrior,Undercity
+60,Guild Guild 7,Tauren,Warrior,Eastern Plaguelands
+60,Guild Guild -1,Tauren,Hunter,Orgrimmar
+60,Guild Guild 4,Tauren,Druid,Dire Maul
+60,Guild Guild 4,Tauren,Druid,Orgrimmar
+11,Guild Guild -1,Troll,Mage,The Barrens
+27,Guild Guild 11,Troll,Rogue,Orgrimmar
+23,Guild Guild 4,Troll,Shaman,Thunder Bluff
+43,Guild Guild 2,Troll,Hunter,Arathi Highlands
+57,Guild Guild 35,Troll,Mage,Durotar
+60,Guild Guild 4,Troll,Shaman,Dire Maul
+60,Guild Guild -1,Troll,Hunter,Orgrimmar
+60,Guild Guild 6,Troll,Rogue,Orgrimmar
+5,Guild Guild -1,Undead,Warlock,Tirisfal Glades
+6,Guild Guild -1,Undead,Rogue,Tirisfal Glades
+26,Guild Guild 2,Undead,Warrior,Ashenvale
+28,Guild Guild 2,Undead,Priest,Ashenvale
+36,Guild Guild 8,Undead,Priest,Orgrimmar
+36,Guild Guild 8,Undead,Rogue,Orgrimmar
+38,Guild Guild 6,Undead,Priest,Arathi Highlands
+45,Guild Guild 8,Undead,Mage,Orgrimmar
+46,Guild Guild 7,Undead,Priest,Hillsbrad Foothills
+48,Guild Guild 10,Undead,Warlock,Feralas
+46,Guild Guild 5,Undead,Mage,Thunder Bluff
+54,Guild Guild 20,Undead,Warlock,Durotar
+57,Guild Guild 19,Undead,Priest,Orgrimmar
+58,Guild Guild 5,Undead,Priest,Undercity
+59,Guild Guild 14,Undead,Priest,Tirisfal Glades
+59,Guild Guild 4,Undead,Warlock,Badlands
+60,Guild Guild 1,Undead,Priest,Undercity
+60,Guild Guild 7,Undead,Priest,Western Plaguelands
+60,Guild Guild 1,Undead,Warlock,Eastern Plaguelands
+60,Guild Guild 6,Undead,Warlock,Blackrock Mountain
+60,Guild Guild 5,Undead,Warrior,Western Plaguelands
+60,Guild Guild 5,Undead,Warrior,Blackrock Mountain
+4,Guild Guild -1,Orc,Hunter,Durotar
+18,Guild Guild -1,Orc,Hunter,The Barrens
+45,Guild Guild -1,Orc,Hunter,The Barrens
+56,Guild Guild 14,Orc,Warrior,Western Plaguelands
+60,Guild Guild 7,Orc,Hunter,Western Plaguelands
+16,Guild Guild 2,Tauren,Druid,Mulgore
+16,Guild Guild 2,Tauren,Shaman,The Barrens
+22,Guild Guild -1,Tauren,Shaman,Orgrimmar
+32,Guild Guild 23,Tauren,Hunter,Orgrimmar
+31,Guild Guild 23,Tauren,Shaman,Thunder Bluff
+40,Guild Guild -1,Tauren,Shaman,Thunder Bluff
+45,Guild Guild 34,Tauren,Hunter,Feralas
+56,Guild Guild 1,Tauren,Hunter,Hillsbrad Foothills
+57,Guild Guild 3,Tauren,Warrior,Stranglethorn Vale
+59,Guild Guild 4,Tauren,Shaman,Durotar
+60,Guild Guild 7,Tauren,Warrior,Undercity
+60,Guild Guild 1,Tauren,Shaman,Duskwood
+60,Guild Guild 17,Tauren,Shaman,Arathi Basin
+60,Guild Guild 1,Tauren,Druid,Hillsbrad Foothills
+11,Guild Guild -1,Troll,Mage,Orgrimmar
+13,Guild Guild -1,Troll,Shaman,The Barrens
+15,Guild Guild 30,Troll,Rogue,The Barrens
+30,Guild Guild -1,Troll,Hunter,Hillsbrad Foothills
+23,Guild Guild 4,Troll,Shaman,Mulgore
+31,Guild Guild 2,Troll,Hunter,Thunder Bluff
+48,Guild Guild 6,Troll,Rogue,Durotar
+51,Guild Guild 2,Troll,Rogue,Uldaman
+52,Guild Guild 17,Troll,Shaman,Undercity
+52,Guild Guild -1,Troll,Hunter,Stranglethorn Vale
+60,Guild Guild 17,Troll,Priest,Tirisfal Glades
+60,Guild Guild 19,Troll,Rogue,Tirisfal Glades
+60,Guild Guild 6,Troll,Hunter,Desolace
+11,Guild Guild -1,Undead,Mage,Undercity
+37,Guild Guild 36,Undead,Mage,Orgrimmar
+34,Guild Guild 6,Undead,Priest,Undercity
+43,Guild Guild 3,Undead,Rogue,Durotar
+45,Guild Guild 8,Undead,Mage,Durotar
+46,Guild Guild 5,Undead,Mage,The Barrens
+46,Guild Guild 7,Undead,Priest,Arathi Highlands
+43,Guild Guild -1,Undead,Warlock,Thunder Bluff
+58,Guild Guild 5,Undead,Priest,Western Plaguelands
+59,Guild Guild 14,Undead,Priest,Western Plaguelands
+60,Guild Guild 4,Undead,Mage,Winterspring
+60,Guild Guild 5,Undead,Mage,Arathi Basin
+60,Guild Guild 7,Undead,Priest,Eastern Plaguelands
+60,Guild Guild 1,Undead,Priest,Searing Gorge
+60,Guild Guild 5,Undead,Warlock,Arathi Basin
+60,Guild Guild 4,Undead,Warrior,Western Plaguelands
+15,Guild Guild 14,Orc,Hunter,Thunder Bluff
+27,Guild Guild 25,Orc,Hunter,Orgrimmar
+21,Guild Guild 2,Orc,Hunter,Ashenvale
+32,Guild Guild 6,Orc,Warlock,Wailing Caverns
+44,Guild Guild 6,Orc,Hunter,Orgrimmar
+60,Guild Guild 4,Orc,Warrior,Tirisfal Glades
+60,Guild Guild 7,Orc,Hunter,Scholomance
+16,Guild Guild 2,Tauren,Druid,Thunder Bluff
+29,Guild Guild 24,Tauren,Warrior,Dun Morogh
+30,Guild Guild -1,Tauren,Warrior,Hillsbrad Foothills
+22,Guild Guild -1,Tauren,Shaman,Durotar
+35,Guild Guild 2,Tauren,Hunter,Durotar
+37,Guild Guild -1,Tauren,Warrior,Loch Modan
+31,Guild Guild 14,Tauren,Hunter,The Barrens
+39,Guild Guild -1,Tauren,Druid,The Barrens
+45,Guild Guild 12,Tauren,Shaman,Feralas
+48,Guild Guild 5,Tauren,Warrior,Feralas
+57,Guild Guild 3,Tauren,Warrior,Orgrimmar
+56,Guild Guild 1,Tauren,Hunter,Blackrock Mountain
+59,Guild Guild 4,Tauren,Shaman,Undercity
+60,Guild Guild 1,Tauren,Warrior,Badlands
+60,Guild Guild 1,Tauren,Shaman,Blackrock Spire
+60,Guild Guild 2,Tauren,Druid,Durotar
+60,Guild Guild 1,Tauren,Druid,Blackrock Mountain
+13,Guild Guild 6,Troll,Priest,The Barrens
+24,Guild Guild 31,Troll,Rogue,Hillsbrad Foothills
+23,Guild Guild 4,Troll,Shaman,The Barrens
+39,Guild Guild 21,Troll,Hunter,Orgrimmar
+38,Guild Guild 6,Troll,Mage,Tirisfal Glades
+53,Guild Guild -1,Troll,Hunter,The Barrens
+51,Guild Guild 2,Troll,Rogue,The Hinterlands
+60,Guild Guild 17,Troll,Rogue,Winterspring
+60,Guild Guild 4,Troll,Rogue,Tirisfal Glades
+60,Guild Guild 28,Troll,Shaman,Durotar
+60,Guild Guild 17,Troll,Priest,Scholomance
+60,Guild Guild 19,Troll,Rogue,Scholomance
+13,Guild Guild 8,Undead,Warlock,Orgrimmar
+16,Guild Guild 30,Undead,Warlock,The Barrens
+28,Guild Guild 7,Undead,Mage,Hillsbrad Foothills
+30,Guild Guild -1,Undead,Rogue,Hillsbrad Foothills
+27,Guild Guild -1,Undead,Priest,The Barrens
+34,Guild Guild 24,Undead,Warlock,Desolace
+35,Guild Guild 2,Undead,Priest,Stranglethorn Vale
+43,Guild Guild -1,Undead,Warlock,Desolace
+58,Guild Guild 4,Undead,Warrior,Durotar
+60,Guild Guild 7,Undead,Priest,Undercity
+60,Guild Guild 1,Undead,Priest,Blackrock Mountain
+60,Guild Guild 20,Undead,Rogue,Ragefire Chasm
+60,Guild Guild 1,Undead,Warlock,Felwood
+60,Guild Guild -1,Undead,Warrior,Orgrimmar
+60,Guild Guild 4,Undead,Warrior,Scholomance
+15,Guild Guild 14,Orc,Hunter,The Barrens
+28,Guild Guild 7,Orc,Rogue,Hillsbrad Foothills
+35,Guild Guild -1,Orc,Hunter,Desolace
+42,Guild Guild 3,Orc,Hunter,Stranglethorn Vale
+12,Guild Guild -1,Tauren,Druid,Mulgore
+13,Guild Guild -1,Tauren,Hunter,Mulgore
+20,Guild Guild 34,Tauren,Hunter,The Barrens
+22,Guild Guild -1,Tauren,Shaman,Alterac Mountains
+22,Guild Guild 18,Tauren,Shaman,The Barrens
+26,Guild Guild 6,Tauren,Shaman,Thunder Bluff
+35,Guild Guild 2,Tauren,Hunter,Stranglethorn Vale
+37,Guild Guild -1,Tauren,Warrior,Badlands
+39,Guild Guild -1,Tauren,Druid,Mulgore
+56,Guild Guild 1,Tauren,Hunter,Blackrock Spire
+60,Guild Guild 1,Tauren,Warrior,Blackrock Spire
+60,Guild Guild 2,Tauren,Hunter,Orgrimmar
+60,Guild Guild 2,Tauren,Druid,Orgrimmar
+60,Guild Guild 1,Tauren,Druid,Blackrock Spire
+20,Guild Guild -1,Troll,Shaman,Orgrimmar
+30,Guild Guild -1,Troll,Hunter,Tirisfal Glades
+38,Guild Guild 6,Troll,Mage,Undercity
+53,Guild Guild -1,Troll,Hunter,Tanaris
+51,Guild Guild 2,Troll,Rogue,Hillsbrad Foothills
+60,Guild Guild 17,Troll,Rogue,Felwood
+26,Guild Guild 2,Undead,Warrior,Orgrimmar
+28,Guild Guild 2,Undead,Priest,Orgrimmar
+26,Guild Guild 20,Undead,Mage,Shadowfang Keep
+44,Guild Guild 13,Undead,Priest,Stranglethorn Vale
+58,Guild Guild 19,Undead,Warlock,Undercity
+60,Guild Guild 17,Undead,Mage,Orgrimmar
+60,Guild Guild 1,Undead,Priest,Blackrock Spire
+60,Guild Guild 4,Undead,Warlock,The Barrens
+5,Guild Guild -1,Orc,Hunter,Durotar
+31,Guild Guild -1,Orc,Rogue,Arathi Highlands
+45,Guild Guild 13,Orc,Hunter,Thunder Bluff
+53,Guild Guild 6,Orc,Hunter,Durotar
+60,Guild Guild 4,Orc,Hunter,Orgrimmar
+60,Guild Guild 2,Orc,Hunter,Durotar
+2,Guild Guild -1,Tauren,Hunter,Mulgore
+9,Guild Guild -1,Tauren,Shaman,Mulgore
+26,Guild Guild 6,Tauren,Shaman,Wailing Caverns
+22,Guild Guild -1,Tauren,Shaman,Hillsbrad Foothills
+30,Guild Guild -1,Tauren,Druid,The Barrens
+24,Guild Guild -1,Tauren,Druid,Thunder Bluff
+32,Guild Guild 13,Tauren,Warrior,Thousand Needles
+39,Guild Guild 2,Tauren,Hunter,Hillsbrad Foothills
+38,Guild Guild 4,Tauren,Druid,Undercity
+38,Guild Guild 19,Tauren,Druid,Stranglethorn Vale
+42,Guild Guild 6,Tauren,Hunter,Durotar
+46,Guild Guild 12,Tauren,Shaman,Feralas
+46,Guild Guild 12,Tauren,Warrior,Thunder Bluff
+52,Guild Guild 15,Tauren,Druid,Tirisfal Glades
+57,Guild Guild 3,Tauren,Warrior,Azshara
+59,Guild Guild 4,Tauren,Shaman,Scholomance
+60,Guild Guild 2,Tauren,Hunter,Durotar
+60,Guild Guild -1,Tauren,Hunter,Durotar
+60,Guild Guild 19,Tauren,Hunter,Thunder Bluff
+60,Guild Guild 19,Tauren,Druid,Tirisfal Glades
+1,Guild Guild -1,Troll,Hunter,Orgrimmar
+1,Guild Guild -1,Troll,Warrior,Durotar
+23,Guild Guild -1,Troll,Warrior,Orgrimmar
+28,Guild Guild 13,Troll,Hunter,The Barrens
+39,Guild Guild 21,Troll,Hunter,Durotar
+46,Guild Guild 18,Troll,Hunter,Orgrimmar
+49,Guild Guild 32,Troll,Rogue,Feralas
+50,Guild Guild 32,Troll,Shaman,The Hinterlands
+54,Guild Guild 25,Troll,Rogue,Durotar
+51,Guild Guild 2,Troll,Rogue,Scarlet Monastery
+60,Guild Guild 15,Troll,Hunter,Orgrimmar
+7,Guild Guild -1,Undead,Rogue,Tirisfal Glades
+12,Guild Guild -1,Undead,Mage,Tirisfal Glades
+12,Guild Guild -1,Undead,Priest,Tirisfal Glades
+24,Guild Guild -1,Undead,Rogue,The Barrens
+26,Guild Guild 2,Undead,Warrior,Durotar
+28,Guild Guild 2,Undead,Priest,Durotar
+28,Guild Guild -1,Undead,Mage,Stonetalon Mountains
+40,Guild Guild 15,Undead,Mage,Undercity
+37,Guild Guild 36,Undead,Mage,Ragefire Chasm
+43,Guild Guild 31,Undead,Mage,Orgrimmar
+44,Guild Guild 13,Undead,Priest,Undercity
+44,Guild Guild 3,Undead,Mage,Durotar
+51,Guild Guild 6,Undead,Mage,Durotar
+55,Guild Guild 29,Undead,Priest,The Temple of Atal'Hakkar
+56,Guild Guild 8,Undead,Priest,Durotar
+60,Guild Guild 17,Undead,Mage,Arathi Basin
+60,Guild Guild 20,Undead,Mage,Thunder Bluff
+60,Guild Guild 6,Undead,Rogue,Uldaman
+60,Guild Guild 20,Undead,Rogue,Thunder Bluff
+60,Guild Guild 4,Undead,Warlock,Tanaris
+60,Guild Guild 1,Undead,Warlock,Ashenvale
+60,Guild Guild 20,Undead,Warlock,Thunder Bluff
+60,Guild Guild -1,Undead,Warrior,Durotar
+60,Guild Guild 4,Undead,Warrior,Durotar
+14,Guild Guild 7,Orc,Hunter,Durotar
+18,Guild Guild -1,Orc,Hunter,Stonetalon Mountains
+39,Guild Guild 7,Orc,Hunter,Alterac Mountains
+41,Guild Guild -1,Orc,Hunter,The Barrens
+48,Guild Guild 2,Orc,Warrior,Felwood
+3,Guild Guild -1,Tauren,Hunter,Mulgore
+26,Guild Guild 21,Tauren,Warrior,Razorfen Kraul
+24,Guild Guild -1,Tauren,Shaman,Silverpine Forest
+39,Guild Guild -1,Tauren,Druid,Dustwallow Marsh
+38,Guild Guild 4,Tauren,Druid,Orgrimmar
+39,Guild Guild 2,Tauren,Hunter,Arathi Highlands
+52,Guild Guild 3,Tauren,Warrior,Un'Goro Crater
+57,Guild Guild 3,Tauren,Warrior,Winterspring
+57,Guild Guild 8,Tauren,Shaman,Orgrimmar
+2,Guild Guild -1,Troll,Warrior,Durotar
+19,Guild Guild -1,Troll,Hunter,The Barrens
+23,Guild Guild -1,Troll,Warrior,The Barrens
+34,Guild Guild 6,Troll,Hunter,Durotar
+49,Guild Guild 32,Troll,Rogue,Orgrimmar
+49,Guild Guild 6,Troll,Rogue,Orgrimmar
+60,Guild Guild 28,Troll,Hunter,Orgrimmar
+4,Guild Guild -1,Undead,Warrior,Orgrimmar
+24,Guild Guild -1,Undead,Rogue,Wailing Caverns
+22,Guild Guild -1,Undead,Priest,Orgrimmar
+26,Guild Guild 2,Undead,Warrior,Silverpine Forest
+26,Guild Guild 20,Undead,Mage,Silverpine Forest
+28,Guild Guild 2,Undead,Priest,Silverpine Forest
+36,Guild Guild 8,Undead,Priest,Ashenvale
+36,Guild Guild 8,Undead,Rogue,Ashenvale
+45,Guild Guild 3,Undead,Priest,Un'Goro Crater
+48,Guild Guild 4,Undead,Mage,Un'Goro Crater
+52,Guild Guild -1,Undead,Mage,Tanaris
+59,Guild Guild 19,Undead,Priest,The Barrens
+60,Guild Guild 28,Undead,Priest,Orgrimmar
+60,Guild Guild 15,Undead,Rogue,Tirisfal Glades
+60,Guild Guild 20,Undead,Warlock,Orgrimmar
+60,Guild Guild 4,Undead,Warlock,Un'Goro Crater
+60,Guild Guild 1,Undead,Warlock,Azshara
+14,Guild Guild 7,Orc,Hunter,Orgrimmar
+36,Guild Guild -1,Orc,Hunter,Stonetalon Mountains
+48,Guild Guild 2,Orc,Warrior,Orgrimmar
+41,Guild Guild -1,Orc,Hunter,Thunder Bluff
+56,Guild Guild 14,Orc,Warrior,Eastern Plaguelands
+60,Guild Guild 4,Orc,Hunter,Tirisfal Glades
+60,Guild Guild 5,Orc,Warrior,Durotar
+14,Guild Guild 7,Tauren,Shaman,The Barrens
+13,Guild Guild -1,Tauren,Hunter,Thunder Bluff
+24,Guild Guild -1,Tauren,Druid,The Barrens
+21,Guild Guild 13,Tauren,Druid,Thunder Bluff
+37,Guild Guild -1,Tauren,Warrior,The Barrens
+32,Guild Guild 13,Tauren,Warrior,Thunder Bluff
+51,Guild Guild -1,Tauren,Druid,Un'Goro Crater
+57,Guild Guild 8,Tauren,Shaman,Durotar
+60,Guild Guild 1,Tauren,Warrior,Searing Gorge
+60,Guild Guild -1,Tauren,Hunter,Undercity
+60,Guild Guild 1,Tauren,Shaman,Blackrock Mountain
+1,Guild Guild -1,Troll,Warrior,Orgrimmar
+9,Guild Guild -1,Troll,Shaman,Durotar
+27,Guild Guild 30,Troll,Hunter,Dustwallow Marsh
+25,Guild Guild 8,Troll,Shaman,Durotar
+34,Guild Guild 6,Troll,Hunter,Tirisfal Glades
+31,Guild Guild 34,Troll,Hunter,Durotar
+45,Guild Guild 15,Troll,Shaman,Stranglethorn Vale
+48,Guild Guild 6,Troll,Rogue,Thunder Bluff
+54,Guild Guild 3,Troll,Rogue,Winterspring
+53,Guild Guild 18,Troll,Shaman,Orgrimmar
+54,Guild Guild 7,Troll,Mage,Western Plaguelands
+58,Guild Guild 13,Troll,Rogue,Winterspring
+60,Guild Guild 28,Troll,Shaman,Azshara
+9,Guild Guild -1,Undead,Priest,Tirisfal Glades
+13,Guild Guild 17,Undead,Priest,Undercity
+16,Guild Guild -1,Undead,Mage,Undercity
+20,Guild Guild 15,Undead,Warrior,The Barrens
+12,Guild Guild -1,Undead,Warrior,Silverpine Forest
+24,Guild Guild 15,Undead,Mage,The Barrens
+28,Guild Guild -1,Undead,Mage,The Barrens
+32,Guild Guild -1,Undead,Mage,Undercity
+36,Guild Guild 6,Undead,Mage,Undercity
+33,Guild Guild 21,Undead,Mage,Stonetalon Mountains
+42,Guild Guild 21,Undead,Mage,Tanaris
+46,Guild Guild 24,Undead,Rogue,Tanaris
+46,Guild Guild 5,Undead,Mage,Duskwood
+55,Guild Guild 29,Undead,Priest,Orgrimmar
+52,Guild Guild -1,Undead,Mage,Un'Goro Crater
+55,Guild Guild 4,Undead,Warrior,Undercity
+57,Guild Guild 5,Undead,Warlock,Tanaris
+59,Guild Guild 14,Undead,Priest,Eastern Plaguelands
+59,Guild Guild 4,Undead,Warlock,Searing Gorge
+58,Guild Guild 4,Undead,Warrior,Felwood
+60,Guild Guild 20,Undead,Mage,Silithus
+2,Guild Guild -1,Orc,Warrior,Durotar
+29,Guild Guild 7,Orc,Rogue,Hillsbrad Foothills
+24,Guild Guild -1,Orc,Hunter,Undercity
+37,Guild Guild 4,Orc,Hunter,Orgrimmar
+46,Guild Guild 15,Orc,Warrior,Stranglethorn Vale
+60,Guild Guild 4,Orc,Hunter,Shadowfang Keep
+4,Guild Guild -1,Tauren,Hunter,Mulgore
+30,Guild Guild -1,Tauren,Druid,Wailing Caverns
+21,Guild Guild 13,Tauren,Druid,The Barrens
+49,Guild Guild 25,Tauren,Warrior,Feralas
+52,Guild Guild 15,Tauren,Druid,Orgrimmar
+56,Guild Guild 32,Tauren,Druid,Thousand Needles
+57,Guild Guild 3,Tauren,Warrior,Burning Steppes
+56,Guild Guild 6,Tauren,Warrior,Felwood
+59,Guild Guild 16,Tauren,Warrior,Un'Goro Crater
+59,Guild Guild 29,Tauren,Warrior,Swamp of Sorrows
+59,Guild Guild 8,Tauren,Warrior,Tirisfal Glades
+60,Guild Guild 1,Tauren,Warrior,Blackrock Mountain
+60,Guild Guild -1,Tauren,Hunter,Arathi Highlands
+60,Guild Guild 19,Tauren,Druid,Arathi Basin
+3,Guild Guild -1,Troll,Warrior,Durotar
+12,Guild Guild -1,Troll,Mage,The Barrens
+23,Guild Guild -1,Troll,Warrior,Wailing Caverns
+31,Guild Guild 34,Troll,Hunter,Silverpine Forest
+54,Guild Guild 7,Troll,Mage,Tirisfal Glades
+53,Guild Guild 3,Troll,Warrior,Durotar
+57,Guild Guild 5,Troll,Hunter,Orgrimmar
+57,Guild Guild 35,Troll,Mage,Azshara
+13,Guild Guild 17,Undead,Priest,Tirisfal Glades
+12,Guild Guild -1,Undead,Mage,Silverpine Forest
+22,Guild Guild -1,Undead,Priest,Undercity
+34,Guild Guild 35,Undead,Priest,The Barrens
+43,Guild Guild -1,Undead,Warlock,Stranglethorn Vale
+46,Guild Guild 5,Undead,Mage,Stranglethorn Vale
+44,Guild Guild 21,Undead,Warlock,Western Plaguelands
+56,Guild Guild 4,Undead,Priest,Orgrimmar
+58,Guild Guild -1,Undead,Warlock,Felwood
+60,Guild Guild 20,Undead,Mage,Azshara
+60,Guild Guild 3,Undead,Warlock,Hillsbrad Foothills
+60,Guild Guild 10,Undead,Warlock,Tirisfal Glades
+29,Guild Guild 7,Orc,Rogue,Silverpine Forest
+37,Guild Guild 4,Orc,Hunter,Stranglethorn Vale
+45,Guild Guild 14,Orc,Hunter,Tanaris
+55,Guild Guild -1,Orc,Hunter,Winterspring
+57,Guild Guild 3,Orc,Rogue,Orgrimmar
+60,Guild Guild 2,Orc,Hunter,Tirisfal Glades
+24,Guild Guild -1,Tauren,Shaman,Tirisfal Glades
+34,Guild Guild 3,Tauren,Druid,Thousand Needles
+35,Guild Guild -1,Tauren,Warrior,Orgrimmar
+40,Guild Guild -1,Tauren,Druid,Mulgore
+42,Guild Guild 2,Tauren,Warrior,Stranglethorn Vale
+52,Guild Guild 3,Tauren,Warrior,Dustwallow Marsh
+56,Guild Guild 32,Tauren,Druid,Stranglethorn Vale
+59,Guild Guild 29,Tauren,Warrior,Tirisfal Glades
+60,Guild Guild 3,Tauren,Shaman,Orgrimmar
+12,Guild Guild -1,Troll,Mage,Orgrimmar
+13,Guild Guild 10,Troll,Rogue,The Barrens
+28,Guild Guild 6,Troll,Hunter,Darkshore
+39,Guild Guild 21,Troll,Hunter,The Barrens
+48,Guild Guild 6,Troll,Rogue,Mulgore
+54,Guild Guild 7,Troll,Mage,Orgrimmar
+54,Guild Guild 2,Troll,Hunter,Durotar
+53,Guild Guild 3,Troll,Warrior,Stranglethorn Vale
+57,Guild Guild 3,Troll,Warrior,Orgrimmar
+57,Guild Guild 3,Troll,Priest,Orgrimmar
+58,Guild Guild 3,Troll,Mage,Orgrimmar
+60,Guild Guild 4,Troll,Priest,Orgrimmar
+13,Guild Guild 17,Undead,Priest,Orgrimmar
+16,Guild Guild -1,Undead,Priest,The Barrens
+22,Guild Guild -1,Undead,Priest,Tirisfal Glades
+28,Guild Guild 7,Undead,Mage,Silverpine Forest
+28,Guild Guild -1,Undead,Mage,Thunder Bluff
+34,Guild Guild 35,Undead,Priest,Thousand Needles
+36,Guild Guild 5,Undead,Mage,Orgrimmar
+55,Guild Guild 29,Undead,Priest,Felwood
+60,Guild Guild 28,Undead,Mage,Orgrimmar
+60,Guild Guild 20,Undead,Mage,Felwood
+60,Guild Guild 6,Undead,Rogue,Badlands
+60,Guild Guild 3,Undead,Warlock,Swamp of Sorrows
+60,Guild Guild 10,Undead,Warlock,Scarlet Monastery
+60,Guild Guild 20,Undead,Warlock,Felwood
+17,Guild Guild -1,Orc,Warrior,Orgrimmar
+15,Guild Guild 30,Orc,Warlock,The Barrens
+22,Guild Guild 2,Orc,Hunter,Ashenvale
+58,Guild Guild 28,Orc,Hunter,Winterspring
+60,Guild Guild 2,Orc,Hunter,Scarlet Monastery
+2,Guild Guild -1,Tauren,Druid,Orgrimmar
+5,Guild Guild -1,Tauren,Hunter,Mulgore
+11,Guild Guild 17,Tauren,Hunter,Ragefire Chasm
+12,Guild Guild -1,Tauren,Druid,Thunder Bluff
+14,Guild Guild -1,Tauren,Hunter,Thunder Bluff
+24,Guild Guild -1,Tauren,Shaman,Orgrimmar
+25,Guild Guild -1,Tauren,Warrior,Orgrimmar
+39,Guild Guild 2,Tauren,Hunter,Alterac Mountains
+35,Guild Guild -1,Tauren,Warrior,Undercity
+32,Guild Guild 23,Tauren,Shaman,Stonetalon Mountains
+37,Guild Guild -1,Tauren,Warrior,Scarlet Monastery
+40,Guild Guild -1,Tauren,Druid,Thunder Bluff
+46,Guild Guild 7,Tauren,Shaman,Badlands
+52,Guild Guild 3,Tauren,Warrior,Orgrimmar
+56,Guild Guild 32,Tauren,Druid,Burning Steppes
+59,Guild Guild 8,Tauren,Warrior,Eastern Plaguelands
+59,Guild Guild 29,Tauren,Warrior,The Hinterlands
+60,Guild Guild 0,Tauren,Warrior,Ashenvale
+1,Guild Guild -1,Troll,Priest,Orgrimmar
+4,Guild Guild -1,Troll,Warrior,Durotar
+14,Guild Guild 6,Troll,Priest,The Barrens
+25,Guild Guild 8,Troll,Shaman,Thunder Bluff
+39,Guild Guild 21,Troll,Hunter,Stonetalon Mountains
+34,Guild Guild 6,Troll,Hunter,The Barrens
+54,Guild Guild 2,Troll,Hunter,Tanaris
+53,Guild Guild 18,Troll,Shaman,Stranglethorn Vale
+53,Guild Guild 3,Troll,Warrior,Blasted Lands
+57,Guild Guild 3,Troll,Warrior,Ragefire Chasm
+57,Guild Guild 5,Troll,Hunter,Thunder Bluff
+20,Guild Guild 15,Undead,Warrior,Thunder Bluff
+28,Guild Guild 7,Undead,Mage,Tirisfal Glades
+41,Guild Guild 4,Undead,Warlock,Orgrimmar
+45,Guild Guild 21,Undead,Warlock,Eastern Plaguelands
+52,Guild Guild 26,Undead,Rogue,Feralas
+57,Guild Guild 26,Undead,Mage,Orgrimmar
+60,Guild Guild 20,Undead,Mage,Moonglade
+60,Guild Guild 28,Undead,Priest,Durotar
+60,Guild Guild 17,Undead,Rogue,Ragefire Chasm
+18,Guild Guild -1,Orc,Hunter,Undercity
+13,Guild Guild -1,Orc,Hunter,Tirisfal Glades
+29,Guild Guild 7,Orc,Rogue,Orgrimmar
+39,Guild Guild 7,Orc,Hunter,Hillsbrad Foothills
+38,Guild Guild 4,Orc,Hunter,Stranglethorn Vale
+49,Guild Guild 4,Orc,Warrior,Un'Goro Crater
+41,Guild Guild -1,Orc,Hunter,Arathi Highlands
+12,Guild Guild 17,Tauren,Hunter,Ragefire Chasm
+19,Guild Guild -1,Tauren,Warrior,Thunder Bluff
+35,Guild Guild -1,Tauren,Warrior,Hillsbrad Foothills
+40,Guild Guild -1,Tauren,Druid,The Barrens
+52,Guild Guild 3,Tauren,Warrior,Winterspring
+53,Guild Guild 8,Tauren,Warrior,Ashenvale
+60,Guild Guild -1,Tauren,Hunter,Desolace
+60,Guild Guild 17,Tauren,Hunter,Azshara
+60,Guild Guild 6,Tauren,Shaman,Orgrimmar
+5,Guild Guild -1,Troll,Warrior,Durotar
+14,Guild Guild 3,Troll,Mage,Orgrimmar
+15,Guild Guild 8,Troll,Rogue,Durotar
+20,Guild Guild -1,Troll,Hunter,The Barrens
+27,Guild Guild 30,Troll,Hunter,Thunder Bluff
+31,Guild Guild 34,Troll,Hunter,Undercity
+34,Guild Guild 6,Troll,Hunter,Stonetalon Mountains
+45,Guild Guild 15,Troll,Shaman,Orgrimmar
+54,Guild Guild 2,Troll,Hunter,Un'Goro Crater
+57,Guild Guild 5,Troll,Hunter,The Barrens
+60,Guild Guild 6,Troll,Hunter,Arathi Basin
+60,Guild Guild 17,Troll,Rogue,Arathi Basin
+12,Guild Guild -1,Undead,Warrior,Undercity
+16,Guild Guild -1,Undead,Warlock,Undercity
+13,Guild Guild 17,Undead,Priest,Ragefire Chasm

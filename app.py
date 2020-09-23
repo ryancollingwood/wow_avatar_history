@@ -1,12 +1,14 @@
 # import necessary libraries
-from models import create_classes
 import os
+from sqlalchemy.sql import select, column
+from sqlalchemy.sql.expression import func
 from flask import (
     Flask,
     render_template,
     jsonify,
     request,
     redirect)
+from models import create_classes
 
 #################################################
 # Flask Setup
@@ -27,27 +29,13 @@ db = SQLAlchemy(app)
 
 AvatarHistory = create_classes(db)
 
+def query_results_to_dicts(results):
+    return jsonify([row._asdict() for row in results])
+
 # create route that renders index.html template
 @app.route("/")
 def home():
     return render_template("index.html")
-
-
-# Query the database and send the jsonified results
-@app.route("/send", methods=["GET", "POST"])
-def send():
-    if request.method == "POST":
-        name = request.form["petName"]
-        lat = request.form["petLat"]
-        lon = request.form["petLon"]
-
-        pet = Pet(name=name, lat=lat, lon=lon)
-        db.session.add(pet)
-        db.session.commit()
-        return redirect("/", code=302)
-
-    return render_template("form.html")
-
 
 @app.route("/api/all")
 def all():
@@ -55,10 +43,43 @@ def all():
         AvatarHistory.level, 
         AvatarHistory.guild,
         AvatarHistory.race,
+        AvatarHistory.char_class,
         AvatarHistory.region
         ).all()
 
-    return jsonify(results)
+    return query_results_to_dicts(results)
+
+@app.route("/api/count_by/<count_by>")
+def count_by(count_by):
+    results = db.session.query(
+        getattr(AvatarHistory, count_by),
+        func.count(getattr(AvatarHistory, count_by)).label("total")
+    ).group_by(
+        getattr(AvatarHistory, count_by)
+    ).all()
+
+    return query_results_to_dicts(results)
+
+@app.route("/api/iqr/<for_column>/<group_by>")
+def iqr(for_column, group_by):
+
+    result = dict()
+
+    group_by_values = [x[0] for x in db.session.query(
+        func.distinct(getattr(AvatarHistory, group_by))
+    ).all()]
+
+    results = db.session.query(
+        getattr(AvatarHistory, group_by),
+        func.min(getattr(AvatarHistory, for_column)).label("min"),
+        func.round(func.avg(getattr(AvatarHistory, for_column))).label("avg"),
+        func.max(getattr(AvatarHistory, for_column)).label("max"),
+    ).group_by(
+        getattr(AvatarHistory, group_by)
+    ).all()
+
+    return query_results_to_dicts(results)
+
 
 
 if __name__ == "__main__":

@@ -5,7 +5,9 @@ from sqlalchemy import DateTime, Float, Integer, String
 
 meta = MetaData()
 
-connection = os.environ.get('DATABASE_URL', '') or "sqlite:///db.sqlite"
+os_env_db_url = os.environ.get('DATABASE_URL', '')
+connection = os_env_db_url or "sqlite:///db.sqlite"
+
 
 print("connection to databse")
 print("os env", os.environ.get('DATABASE_URL', ''))
@@ -14,15 +16,13 @@ engine = create_engine(connection)
 if not engine.has_table("avatar_history"):
     print("Creating Table")
 
-    # level,guild,race,class,region
-
     new_table = Table(
         'avatar_history', meta,
         Column('id', Integer, primary_key=True, autoincrement=True),
         Column('level', Integer),
         Column('guild', String),
         Column('race', String),
-        Column('class', String),
+        Column('char_class', String),
         Column('region', String),
     )
 

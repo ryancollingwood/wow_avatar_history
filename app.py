@@ -69,6 +69,9 @@ def count_by(count_by, optional_count_by = None):
         ).group_by(
             getattr(AvatarHistory, count_by),
             getattr(AvatarHistory, optional_count_by)
+        ).order_by(
+            getattr(AvatarHistory, count_by),
+            getattr(AvatarHistory, optional_count_by),
         ).all()
 
     return query_results_to_dicts(results)

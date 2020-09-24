@@ -50,14 +50,26 @@ def all():
 
     return query_results_to_dicts(results)
 
-@app.route("/api/count_by/<count_by>")
-def count_by(count_by):
-    results = db.session.query(
-        getattr(AvatarHistory, count_by),
-        func.count(getattr(AvatarHistory, count_by)).label("total")
-    ).group_by(
-        getattr(AvatarHistory, count_by)
-    ).all()
+@app.route("/api/count_by/<count_by>", defaults={'optional_count_by': None})
+@app.route("/api/count_by/<count_by>/<optional_count_by>")
+def count_by(count_by, optional_count_by = None):
+
+    if optional_count_by is None:
+        results = db.session.query(
+            getattr(AvatarHistory, count_by),
+            func.count(getattr(AvatarHistory, count_by)).label("total")
+        ).group_by(
+            getattr(AvatarHistory, count_by)
+        ).all()
+    else:
+        results = db.session.query(
+            getattr(AvatarHistory, count_by),
+            getattr(AvatarHistory, optional_count_by),
+            func.count(getattr(AvatarHistory, count_by)).label("total")
+        ).group_by(
+            getattr(AvatarHistory, count_by),
+            getattr(AvatarHistory, optional_count_by)
+        ).all()
 
     return query_results_to_dicts(results)
 
@@ -86,4 +98,5 @@ def values(for_column, group_by):
 
 
 if __name__ == "__main__":
-    app.run()
+    # running in debug mode - remove before deployment
+    app.run(debug=True)

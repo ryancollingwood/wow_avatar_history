@@ -99,7 +99,18 @@ def values(for_column, group_by):
 
     return query_results_to_dicts(values_for_groupby)
 
+@app.route("/api/where/<region>")
+def where(region):
+    # note the use of double % when doing a partial
+    # string match in sql because % is used in python
+    # strings for formatting purposes
+    results = db.engine.execute(f"""
+        SELECT * FROM avatar_history 
+        WHERE UPPER(region) LIKE '%%{region.upper().strip()}%%'
+    """)
+    print(results)
+    return jsonify([dict(row) for row in results])
+
 
 if __name__ == "__main__":
-    # running in debug mode - remove before deployment
     app.run(debug=True)

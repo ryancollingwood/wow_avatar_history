@@ -32,7 +32,7 @@ if not engine.has_table("avatar_history"):
 
     seed_data = list()
 
-    with open('data/wowah_sample.csv',newline='') as File: #the csv file is stored in a File object
+    with open('data/wowah_sample.csv', newline='') as File: #the csv file is stored in a File object
 
         reader = csv.DictReader(File)       #csv.reader is used to read a file
         for row in reader:

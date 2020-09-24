@@ -27,7 +27,7 @@ function buildRacesByClassBarChart() {
     var grouped_data = d3.group(response, d => d.race)
     console.log(grouped_data);
 
-    var traces = [];
+    var traces = Array();
 
     grouped_data.forEach(element => {      
       traces.push({

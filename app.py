@@ -9,6 +9,7 @@ from flask import (
     request,
     redirect)
 from models import create_classes
+import simplejson
 
 #################################################
 # Flask Setup
@@ -30,7 +31,7 @@ db = SQLAlchemy(app)
 AvatarHistory = create_classes(db)
 
 def query_results_to_dicts(results):
-    return jsonify([row._asdict() for row in results])
+    return simplejson.dumps(results)
 
 # create route that renders index.html template
 @app.route("/")
@@ -60,26 +61,28 @@ def count_by(count_by):
 
     return query_results_to_dicts(results)
 
-@app.route("/api/iqr/<for_column>/<group_by>")
-def iqr(for_column, group_by):
+@app.route("/api/values/<for_column>/<group_by>")
+def values(for_column, group_by):
 
-    result = dict()
+    values_for_groupby = dict()
 
-    group_by_values = [x[0] for x in db.session.query(
+    group_by_values = sorted([x[0] for x in db.session.query(
         func.distinct(getattr(AvatarHistory, group_by))
-    ).all()]
+    ).all()])
 
     results = db.session.query(
         getattr(AvatarHistory, group_by),
-        func.min(getattr(AvatarHistory, for_column)).label("min"),
-        func.round(func.avg(getattr(AvatarHistory, for_column))).label("avg"),
-        func.max(getattr(AvatarHistory, for_column)).label("max"),
-    ).group_by(
-        getattr(AvatarHistory, group_by)
+        getattr(AvatarHistory, for_column),
+    ).order_by(
+        getattr(AvatarHistory, group_by),
+        getattr(AvatarHistory, for_column),
     ).all()
 
-    return query_results_to_dicts(results)
+    for group in group_by_values:
+        values_for_groupby[group] = [x[1] for x in results if x[0] == group]
 
+
+    return query_results_to_dicts(values_for_groupby)
 
 
 if __name__ == "__main__":

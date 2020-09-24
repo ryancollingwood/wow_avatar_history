@@ -1,6 +1,6 @@
 # import necessary libraries
 import os
-from sqlalchemy.sql import select, column
+from sqlalchemy.sql import select, column, text
 from sqlalchemy.sql.expression import func
 from flask import (
     Flask,
@@ -10,6 +10,7 @@ from flask import (
     redirect)
 from models import create_classes
 import simplejson
+from flask_sqlalchemy import SQLAlchemy
 
 #################################################
 # Flask Setup
@@ -19,8 +20,6 @@ app = Flask(__name__)
 #################################################
 # Database Setup
 #################################################
-
-from flask_sqlalchemy import SQLAlchemy
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "sqlite:///db.sqlite"
 
 # Remove tracking modifications
@@ -104,10 +103,10 @@ def where(region):
     # note the use of double % when doing a partial
     # string match in sql because % is used in python
     # strings for formatting purposes
-    results = db.engine.execute(f"""
+    results = db.engine.execute(text("""
         SELECT * FROM avatar_history 
-        WHERE UPPER(region) LIKE '%%{region.upper().strip()}%%'
-    """)
+        WHERE UPPER(region) = :region
+    """).bindparams(region=region.upper().strip()))
     print(results)
     return jsonify([dict(row) for row in results])
 

@@ -6,14 +6,14 @@ function populateFilter() {
     var filerOptions = ["All"];
     filerOptions = filerOptions.concat(response);
     
-    d3.select("#sel-filter")
+    d3.select("#sel-filter-race")
       .selectAll("option")
       .data(filerOptions)
       .enter()
       .append("option")
       .text(d => d);
 
-    d3.select("#sel-filter").on("change", refreshCharts);
+    d3.select("#sel-filter-race").on("change", refreshCharts);
   });
 }
 

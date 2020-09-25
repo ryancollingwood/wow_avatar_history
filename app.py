@@ -20,7 +20,8 @@ app = Flask(__name__)
 #################################################
 # Database Setup
 #################################################
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "sqlite:///db.sqlite"
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get(
+    'DATABASE_URL', '') or "sqlite:///db.sqlite"
 
 # Remove tracking modifications
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
@@ -29,29 +30,34 @@ db = SQLAlchemy(app)
 
 AvatarHistory = create_classes(db)
 
+
 def query_results_to_dicts(results):
     return simplejson.dumps(results)
 
 # create route that renders index.html template
+
+
 @app.route("/")
 def home():
     return render_template("index.html")
 
+
 @app.route("/api/all")
 def all():
     results = db.session.query(
-        AvatarHistory.level, 
+        AvatarHistory.level,
         AvatarHistory.guild,
         AvatarHistory.race,
         AvatarHistory.char_class,
         AvatarHistory.region
-        ).all()
+    ).all()
 
     return query_results_to_dicts(results)
 
+
 @app.route("/api/count_by/<count_by>", defaults={'optional_count_by': None})
 @app.route("/api/count_by/<count_by>/<optional_count_by>")
-def count_by(count_by, optional_count_by = None):
+def count_by(count_by, optional_count_by=None):
 
     if optional_count_by is None:
         results = db.session.query(
@@ -75,8 +81,17 @@ def count_by(count_by, optional_count_by = None):
 
     return query_results_to_dicts(results)
 
+
 @app.route("/api/values/<for_column>/<group_by>")
-def values(for_column, group_by):
+@app.route("/api/values/<for_column>/", defaults={'group_by': None})
+def values(for_column, group_by = None):
+
+    if group_by is None:
+        values = sorted([x[0] for x in db.session.query(
+            func.distinct(getattr(AvatarHistory, for_column))
+        ).all()])
+
+        return jsonify(values)
 
     values_for_groupby = dict()
 
@@ -95,19 +110,19 @@ def values(for_column, group_by):
     for group in group_by_values:
         values_for_groupby[group] = [x[1] for x in results if x[0] == group]
 
-
     return query_results_to_dicts(values_for_groupby)
+
 
 @app.route("/api/where/<region>")
 def where(region):
-    # note the use of double % when doing a partial
-    # string match in sql because % is used in python
-    # strings for formatting purposes
+
     results = db.engine.execute(text("""
         SELECT * FROM avatar_history 
         WHERE UPPER(region) = :region
-    """).bindparams(region=region.upper().strip()))
-    print(results)
+    """).bindparams(
+        region=region.upper().strip()
+    ))
+    
     return jsonify([dict(row) for row in results])
 
 

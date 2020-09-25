@@ -16,19 +16,27 @@
             <p>Who's in Azeroth</p>
         </div>
 
+        
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-6 col-sm-12">
+                <div class="form-group">
+                    <label for="sel-filter">Filter:</label>
+                    <select class="form-control" id="sel-filter">
+                      <option>All</option>
+                    </select>
+                  </div>                  
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-12">
                 <h2>Character Races</h2>
                 <div id="character-races-plot"></div>
             </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-6 col-sm-12">
                 <h2>Races By Class</h2>
                 <div id="races-by-class-plot"></div>
             </div>
-        </div>        
+        </div>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.min.js"></script>

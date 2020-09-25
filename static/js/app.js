@@ -1,5 +1,33 @@
-function buildRacesPieChart() {
-  const url = "api/count_by/char_class";
+function populateFilter() {
+  const url = "api/values/race";
+
+  d3.json(url).then(function(response) {
+    
+    var filerOptions = ["All"];
+    filerOptions = filerOptions.concat(response);
+    
+    d3.select("#sel-filter")
+      .selectAll("option")
+      .data(filerOptions)
+      .enter()
+      .append("option")
+      .text(d => d);
+
+    d3.select("#sel-filter").on("change", refreshCharts);
+  });
+}
+
+function refreshCharts(event) {
+  var selectedValue = d3.select(event.target).property('value')
+  buildRacesPieChart(selectedValue);
+  buildRacesByClassBarChart(selectedValue);
+}
+
+function buildRacesPieChart(selectedRace) {
+  var url = "api/count_by/race/char_class";
+  if (selectedRace != undefined) {
+    url = `api/count_by/race/char_class?race=${selectedRace}`;
+  }
 
   d3.json(url).then(function(response) {
     var data = [{
@@ -19,13 +47,15 @@ function buildRacesPieChart() {
 }
 
 
-function buildRacesByClassBarChart() {
-  const url = "api/count_by/race/char_class";  
+function buildRacesByClassBarChart(selectedRace) {
+  var url = "api/count_by/race/char_class";
+  if (selectedRace != undefined) {
+    url = `api/count_by/race/char_class?race=${selectedRace}`;
+  }
 
   d3.json(url).then(function(response) {
 
     var grouped_data = d3.group(response, d => d.race)
-    console.log(grouped_data);
 
     var traces = Array();
 
@@ -48,6 +78,6 @@ function buildRacesByClassBarChart() {
   });
 }
 
-
+populateFilter();
 buildRacesPieChart();
 buildRacesByClassBarChart();

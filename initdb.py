@@ -4,7 +4,7 @@ from sqlalchemy import create_engine, Table, Column, MetaData
 from sqlalchemy import DateTime, Float, Integer, String
 
 """
-This scripts is used to create the postgres database and
+This script is used to create the postgres database and
 populate it with data. This is often referred to as 'seeding'.
 """
 
@@ -48,6 +48,10 @@ database.
 if not engine.has_table("avatar_history"):
     print("Creating Table")
 
+    """
+    Here we'll define the table using the SQLAlchemy ORM interface
+    https://docs.sqlalchemy.org/en/13/core/metadata.html#creating-and-dropping-database-tables
+    """
     new_table = Table(
         'avatar_history', meta,
         Column('id', Integer, primary_key=True, autoincrement=True),
@@ -62,14 +66,21 @@ if not engine.has_table("avatar_history"):
     
     print("Table created")
 
+    """
+    Let's read in the csv data and put into a list to read into
+    our newly created table
+    """
     seed_data = list()
 
-    with open('data/wowah_sample.csv', newline='') as File: #the csv file is stored in a File object
-
-        reader = csv.DictReader(File)       #csv.reader is used to read a file
+    with open('data/wowah_sample.csv', newline='') as input_file:
+        reader = csv.DictReader(input_file)       #csv.reader is used to read a file
         for row in reader:
             seed_data.append(row)
     
+    """
+    With our newly created table let's insert the row we've read in
+    and with that we're done
+    """
     with engine.connect() as conn:
         conn.execute(new_table.insert(), seed_data)
 

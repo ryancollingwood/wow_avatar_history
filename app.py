@@ -58,9 +58,30 @@ def get_selected_race():
     selected_race = request.args.get("race")
     if selected_race == "All":
         return None
+
+    if selected_race is not None:
+        selected_race = selected_race.title()
     
     return selected_race
 
+
+@app.route("/api/count_by_race")
+def count_by_race():
+    results = db.session.query(
+        AvatarHistory.race,
+        func.count(AvatarHistory.race).label("total")
+    )
+
+    results = results.group_by(
+        AvatarHistory.race
+    ).all()
+
+    return query_results_to_dicts(results)
+
+"""
+An example how to have multiple routes point to the same pyton function
+and optional parameters
+"""
 @app.route("/api/count_by/<count_by>", defaults={'optional_count_by': None})
 @app.route("/api/count_by/<count_by>/<optional_count_by>")
 def count_by(count_by, optional_count_by=None):
@@ -74,9 +95,11 @@ def count_by(count_by, optional_count_by=None):
         )
 
         if selected_race is not None:
-            results.filter(AvatarHistory.race == selected_race)
+            results = results.filter(AvatarHistory.race == selected_race)
 
         results = results.group_by(
+            getattr(AvatarHistory, count_by)
+        ).order_by(
             getattr(AvatarHistory, count_by)
         ).all()
 
@@ -101,7 +124,7 @@ def count_by(count_by, optional_count_by=None):
     return query_results_to_dicts(results)
 
 
-def get_column_values(for_column, selected_race):
+def get_column_values(for_column, selected_race = None):
     value_query = db.session.query(
         func.distinct(getattr(AvatarHistory, for_column))
     )
@@ -113,7 +136,7 @@ def get_column_values(for_column, selected_race):
     
     values = sorted([x[0] for x in value_query.all()])
 
-    return values  
+    return values
 
 
 @app.route("/api/values/<for_column>/<group_by>")
@@ -150,7 +173,9 @@ def values(for_column, group_by = None):
 
     return query_results_to_dicts(values_for_groupby)
 
-
+"""
+Lets do a VERY simple attempt to mitigate SQL injection
+"""
 @app.route("/api/where/<region>")
 def where(region):
 
